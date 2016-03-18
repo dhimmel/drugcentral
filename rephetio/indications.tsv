@@ -1,0 +1,750 @@
+slim_id	slim_name	INDICATION_FDB	DRUG_ID	DRUG_NAME	drugbank_id
+DOID:10652	Alzheimer's disease	Mild to Moderate Alzheimer's Type Dementia	946	donepezil	DB00843
+DOID:10652	Alzheimer's disease	Mild to Moderate Alzheimer's Type Dementia	946	donepezil	DB07701
+DOID:10652	Alzheimer's disease	Mild to Moderate Alzheimer's Type Dementia	1272	galantamine	DB00674
+DOID:10652	Alzheimer's disease	Mild to Moderate Alzheimer's Type Dementia	2392	rivastigmine	DB00989
+DOID:10652	Alzheimer's disease	Mild to Moderate Alzheimer's Type Dementia	2551	tacrine	DB00382
+DOID:11119	Gilles de la Tourette syndrome	Gilles De La Tourette Syndrome	1353	haloperidol	DB00502
+DOID:11119	Gilles de la Tourette syndrome	Gilles De La Tourette Syndrome	2172	pimozide	DB01100
+DOID:12361	Graves' disease	Graves' Disease	497	carbimazole	DB00389
+DOID:5408	Paget's disease of bone	Paget's Disease of Bone	112	alendronic acid	DB00630
+DOID:5408	Paget's disease of bone	Paget's Disease of Bone	2048	pamidronic acid	DB00282
+DOID:5408	Paget's disease of bone	Paget's Disease of Bone	2387	risedronic acid	DB00884
+DOID:5408	Paget's disease of bone	Paget's Disease of Bone	2868	zoledronic acid	DB00399
+DOID:14330	Parkinson's disease	Idiopathic Parkinsonism	144	amantadine	DB00915
+DOID:14330	Parkinson's disease	Idiopathic Parkinsonism	228	apomorphine	DB00714
+DOID:14330	Parkinson's disease	Idiopathic Parkinsonism	333	benzatropine	DB00245
+DOID:14330	Parkinson's disease	Idiopathic Parkinsonism	374	biperiden	DB00810
+DOID:14330	Parkinson's disease	Idiopathic Parkinsonism	403	bromocriptine	DB01200
+DOID:14330	Parkinson's disease	Idiopathic Parkinsonism	496	carbidopa	DB00190
+DOID:14330	Parkinson's disease	Idiopathic Parkinsonism	916	diphenhydramine	DB00985
+DOID:14330	Parkinson's disease	Idiopathic Parkinsonism	916	diphenhydramine	DB01075
+DOID:14330	Parkinson's disease	Idiopathic Parkinsonism	971	droxidopa	DB06262
+DOID:14330	Parkinson's disease	Idiopathic Parkinsonism	1018	entacapone	DB00494
+DOID:14330	Parkinson's disease	Idiopathic Parkinsonism	1567	levodopa	DB01235
+DOID:14330	Parkinson's disease	Idiopathic Parkinsonism	1845	morphine	DB00295
+DOID:14330	Parkinson's disease	Idiopathic Parkinsonism	2233	pramipexole	DB00413
+DOID:14330	Parkinson's disease	Idiopathic Parkinsonism	2276	procyclidine	DB00387
+DOID:14330	Parkinson's disease	Idiopathic Parkinsonism	3521	rasagiline	DB01367
+DOID:14330	Parkinson's disease	Idiopathic Parkinsonism	3521	rasagiline	DB03894
+DOID:14330	Parkinson's disease	Idiopathic Parkinsonism	2402	ropinirole	DB00268
+DOID:14330	Parkinson's disease	Idiopathic Parkinsonism	2407	rotigotine	DB05271
+DOID:14330	Parkinson's disease	Idiopathic Parkinsonism	2429	selegiline	DB01037
+DOID:14330	Parkinson's disease	Idiopathic Parkinsonism	2697	tolcapone	DB00323
+DOID:14330	Parkinson's disease	Idiopathic Parkinsonism	2745	trihexyphenidyl	DB00376
+DOID:986	alopecia areata	Alopecia Areata	2725	triamcinolone	DB00620
+DOID:332	amyotrophic lateral sclerosis	Amyotrophic Lateral Sclerosis	2382	riluzole	DB00740
+DOID:2355	anemia	Congenital Hypoplastic Anemia	348	betamethasone	DB00443
+DOID:2355	anemia	Congenital Hypoplastic Anemia	348	betamethasone	DB01234
+DOID:2355	anemia	Congenital Hypoplastic Anemia	824	dexamethasone	DB00443
+DOID:2355	anemia	Congenital Hypoplastic Anemia	824	dexamethasone	DB01234
+DOID:2355	anemia	Congenital Hypoplastic Anemia	1388	hydrocortisone	DB00741
+DOID:2355	anemia	Congenital Hypoplastic Anemia	1388	hydrocortisone	DB07886
+DOID:2355	anemia	Congenital Hypoplastic Anemia	1768	methylprednisolone	DB00959
+DOID:2355	anemia	Congenital Hypoplastic Anemia	2245	prednisolone	DB00860
+DOID:2355	anemia	Congenital Hypoplastic Anemia	2253	prednisone	DB00635
+DOID:2355	anemia	Congenital Hypoplastic Anemia	2725	triamcinolone	DB00620
+DOID:7147	ankylosing spondylitis	Ankylosing Spondylitis	348	betamethasone	DB00443
+DOID:7147	ankylosing spondylitis	Ankylosing Spondylitis	348	betamethasone	DB01234
+DOID:7147	ankylosing spondylitis	Ankylosing Spondylitis	568	celecoxib	DB00482
+DOID:7147	ankylosing spondylitis	Ankylosing Spondylitis	824	dexamethasone	DB00443
+DOID:7147	ankylosing spondylitis	Ankylosing Spondylitis	824	dexamethasone	DB01234
+DOID:7147	ankylosing spondylitis	Ankylosing Spondylitis	865	diclofenac	DB00586
+DOID:7147	ankylosing spondylitis	Ankylosing Spondylitis	1388	hydrocortisone	DB00741
+DOID:7147	ankylosing spondylitis	Ankylosing Spondylitis	1388	hydrocortisone	DB07886
+DOID:7147	ankylosing spondylitis	Ankylosing Spondylitis	1440	indomethacin	DB00328
+DOID:7147	ankylosing spondylitis	Ankylosing Spondylitis	1547	lansoprazole	DB00448
+DOID:7147	ankylosing spondylitis	Ankylosing Spondylitis	1768	methylprednisolone	DB00959
+DOID:7147	ankylosing spondylitis	Ankylosing Spondylitis	1883	naproxen	DB00788
+DOID:7147	ankylosing spondylitis	Ankylosing Spondylitis	1883	naproxen	DB08298
+DOID:7147	ankylosing spondylitis	Ankylosing Spondylitis	2245	prednisolone	DB00860
+DOID:7147	ankylosing spondylitis	Ankylosing Spondylitis	2253	prednisone	DB00635
+DOID:7147	ankylosing spondylitis	Ankylosing Spondylitis	2534	sulindac	DB00605
+DOID:7147	ankylosing spondylitis	Ankylosing Spondylitis	2725	triamcinolone	DB00620
+DOID:2841	asthma	Bronchial Asthma	294	beclometasone dipropionate	DB01222
+DOID:2841	asthma	Bronchial Asthma	348	betamethasone	DB00443
+DOID:2841	asthma	Bronchial Asthma	348	betamethasone	DB01234
+DOID:2841	asthma	Bronchial Asthma	384	bitolterol	DB00901
+DOID:2841	asthma	Bronchial Asthma	419	budesonide	DB01222
+DOID:2841	asthma	Bronchial Asthma	633	ciclesonide	DB01410
+DOID:2841	asthma	Bronchial Asthma	3135	desonide	DB01260
+DOID:2841	asthma	Bronchial Asthma	824	dexamethasone	DB00443
+DOID:2841	asthma	Bronchial Asthma	824	dexamethasone	DB01234
+DOID:2841	asthma	Bronchial Asthma	976	diprophylline	DB00651
+DOID:2841	asthma	Bronchial Asthma	1028	epinephrine	DB00668
+DOID:2841	asthma	Bronchial Asthma	1201	flunisolide	DB00180
+DOID:2841	asthma	Bronchial Asthma	4554	fluticasone furoate	DB08906
+DOID:2841	asthma	Bronchial Asthma	1388	hydrocortisone	DB00741
+DOID:2841	asthma	Bronchial Asthma	1388	hydrocortisone	DB07886
+DOID:2841	asthma	Bronchial Asthma	1768	methylprednisolone	DB00959
+DOID:2841	asthma	Bronchial Asthma	1960	norepinephrine	DB00368
+DOID:2841	asthma	Bronchial Asthma	1720	orciprenaline	DB00816
+DOID:2841	asthma	Bronchial Asthma	2199	pirbuterol	DB01291
+DOID:2841	asthma	Bronchial Asthma	2245	prednisolone	DB00860
+DOID:2841	asthma	Bronchial Asthma	2253	prednisone	DB00635
+DOID:2841	asthma	Bronchial Asthma	2598	terbutaline	DB00871
+DOID:2841	asthma	Bronchial Asthma	2620	theophylline	DB00277
+DOID:2841	asthma	Bronchial Asthma	2620	theophylline	DB01223
+DOID:2841	asthma	Bronchial Asthma	2677	tiotropium bromide	DB01409
+DOID:2841	asthma	Bronchial Asthma	2725	triamcinolone	DB00620
+DOID:2841	asthma	Bronchial Asthma	2855	zafirlukast	DB00549
+DOID:2841	asthma	Extrinsic Asthma	1239	formoterol	DB00983
+DOID:2841	asthma	Extrinsic Asthma	1239	formoterol	DB01274
+DOID:2841	asthma	Extrinsic Asthma	1836	montelukast	DB00471
+DOID:2841	asthma	Extrinsic Asthma	2419	salmeterol	DB00938
+DOID:2841	asthma	Extrinsic Asthma	2862	zileuton	DB00744
+DOID:2841	asthma	Intrinsic Asthma	1239	formoterol	DB00983
+DOID:2841	asthma	Intrinsic Asthma	1239	formoterol	DB01274
+DOID:2841	asthma	Intrinsic Asthma	1836	montelukast	DB00471
+DOID:2841	asthma	Intrinsic Asthma	2419	salmeterol	DB00938
+DOID:2841	asthma	Intrinsic Asthma	2862	zileuton	DB00744
+DOID:2841	asthma	Status Asthmaticus	348	betamethasone	DB00443
+DOID:2841	asthma	Status Asthmaticus	348	betamethasone	DB01234
+DOID:2841	asthma	Status Asthmaticus	1388	hydrocortisone	DB00741
+DOID:2841	asthma	Status Asthmaticus	1388	hydrocortisone	DB07886
+DOID:2841	asthma	Status Asthmaticus	1768	methylprednisolone	DB00959
+DOID:2841	asthma	Status Asthmaticus	2245	prednisolone	DB00860
+DOID:2841	asthma	Status Asthmaticus	2620	theophylline	DB00277
+DOID:2841	asthma	Status Asthmaticus	2620	theophylline	DB01223
+DOID:2841	asthma	Status Asthmaticus	2725	triamcinolone	DB00620
+DOID:3310	atopic dermatitis	Allergic Dermatitis	4493	alclometasone dipropionate	DB00240
+DOID:3310	atopic dermatitis	Allergic Dermatitis	150	amcinonide	DB00288
+DOID:3310	atopic dermatitis	Allergic Dermatitis	348	betamethasone	DB00443
+DOID:3310	atopic dermatitis	Allergic Dermatitis	348	betamethasone	DB01234
+DOID:3310	atopic dermatitis	Allergic Dermatitis	819	desoximetasone	DB00547
+DOID:3310	atopic dermatitis	Allergic Dermatitis	824	dexamethasone	DB00443
+DOID:3310	atopic dermatitis	Allergic Dermatitis	824	dexamethasone	DB01234
+DOID:3310	atopic dermatitis	Allergic Dermatitis	4485	diflorasone diacetate	DB00223
+DOID:3310	atopic dermatitis	Allergic Dermatitis	1217	fludroxycortide	DB00846
+DOID:3310	atopic dermatitis	Allergic Dermatitis	1204	fluocinolone acetonide	DB00591
+DOID:3310	atopic dermatitis	Allergic Dermatitis	1388	hydrocortisone	DB00741
+DOID:3310	atopic dermatitis	Allergic Dermatitis	1388	hydrocortisone	DB07886
+DOID:3310	atopic dermatitis	Allergic Dermatitis	1400	hydroxyzine	DB00557
+DOID:3310	atopic dermatitis	Allergic Dermatitis	1768	methylprednisolone	DB00959
+DOID:3310	atopic dermatitis	Allergic Dermatitis	2243	prednicarbate	DB01130
+DOID:3310	atopic dermatitis	Allergic Dermatitis	2245	prednisolone	DB00860
+DOID:3310	atopic dermatitis	Allergic Dermatitis	2725	triamcinolone	DB00620
+DOID:3310	atopic dermatitis	Atopic Dermatitis	4493	alclometasone dipropionate	DB00240
+DOID:3310	atopic dermatitis	Atopic Dermatitis	3135	desonide	DB01260
+DOID:3310	atopic dermatitis	Atopic Dermatitis	956	doxepin	DB01142
+DOID:3310	atopic dermatitis	Atopic Dermatitis	1205	fluocinonide	DB00591
+DOID:3310	atopic dermatitis	Atopic Dermatitis	1770	methylprednisolone acetate	DB00959
+DOID:3310	atopic dermatitis	Atopic Dermatitis	2168	pimecrolimus	DB00337
+DOID:3310	atopic dermatitis	Atopic Dermatitis	2253	prednisone	DB00635
+DOID:3310	atopic dermatitis	Atopic Dermatitis	2552	tacrolimus	DB00864
+DOID:3310	atopic dermatitis	Atopic Dermatitis	1349	ulobetasol propionate	DB00596
+DOID:12849	autistic disorder	Infantile Autism	242	aripiprazole	DB01238
+DOID:12849	autistic disorder	Infantile Autism	2389	risperidone	DB00734
+DOID:3312	bipolar disorder	Bipolar Disorder	1613	loxapine	DB00408
+DOID:3312	bipolar disorder	Bipolar Disorder	2337	quetiapine	DB01224
+DOID:3312	bipolar disorder	Depression associated with Manic Depressive Disorder	956	doxepin	DB01142
+DOID:3312	bipolar disorder	Depression associated with Manic Depressive Disorder	1209	fluoxetine	DB00472
+DOID:3312	bipolar disorder	Depression associated with Manic Depressive Disorder	1209	fluoxetine	DB08472
+DOID:3312	bipolar disorder	Depression associated with Manic Depressive Disorder	1209	fluoxetine	DB08544
+DOID:3312	bipolar disorder	Depression associated with Manic Depressive Disorder	4168	lurasidone	DB08815
+DOID:3312	bipolar disorder	Depression associated with Manic Depressive Disorder	1982	olanzapine	DB00334
+DOID:3312	bipolar disorder	Depression associated with Manic Depressive Disorder	2337	quetiapine	DB01224
+DOID:3312	bipolar disorder	Mixed Bipolar I Disorder	242	aripiprazole	DB01238
+DOID:3312	bipolar disorder	Mixed Bipolar I Disorder	4115	asenapine	DB06216
+DOID:3312	bipolar disorder	Mixed Bipolar I Disorder	489	carbamazepine	DB00564
+DOID:3312	bipolar disorder	Mixed Bipolar I Disorder	1982	olanzapine	DB00334
+DOID:3312	bipolar disorder	Mixed Bipolar I Disorder	2389	risperidone	DB00734
+DOID:3312	bipolar disorder	Mixed Bipolar I Disorder	2865	ziprasidone	DB00246
+DOID:184	bone cancer	Osteosarcoma of Bone	1751	methotrexate	DB00563
+DOID:1319	brain cancer	Glioblastoma Multiforme of Brain	512	carmustine	DB00262
+DOID:1319	brain cancer	Malignant Brain Neoplasm	512	carmustine	DB00262
+DOID:1612	breast cancer	Ductal Carcinoma in Situ of Breast	2561	tamoxifen	DB00675
+DOID:1612	breast cancer	Locally Advanced Breast Carcinoma	939	docetaxel	DB01248
+DOID:1612	breast cancer	Locally Advanced Breast Carcinoma	1118	everolimus	DB01590
+DOID:1612	breast cancer	Locally Advanced Breast Carcinoma	1517	ixabepilone	DB04845
+DOID:1612	breast cancer	Locally Advanced Breast Carcinoma	2044	paclitaxel	DB01229
+DOID:4362	cervical cancer	Metastatic Malignant Tumor of Cervix	2707	topotecan	DB01030
+DOID:3083	chronic obstructive pulmonary disease	Chronic Obstructive Pulmonary Disease	4484	aclidinium bromide	DB08897
+DOID:3083	chronic obstructive pulmonary disease	Chronic Obstructive Pulmonary Disease	4943	arformoterol	DB00983
+DOID:3083	chronic obstructive pulmonary disease	Chronic Obstructive Pulmonary Disease	4943	arformoterol	DB01274
+DOID:3083	chronic obstructive pulmonary disease	Chronic Obstructive Pulmonary Disease	4302	glycopyrronium bromide	DB00986
+DOID:3083	chronic obstructive pulmonary disease	Chronic Obstructive Pulmonary Disease	1475	ipratropium	DB00332
+DOID:219	colon cancer	Colorectal Cancer	26	fluorouracil	DB00544
+DOID:219	colon cancer	Colorectal Cancer	4893	tipiracil	DB02631
+DOID:3393	coronary artery disease	Myocardial Infarction	74	acetylsalicylic acid	DB00945
+DOID:3393	coronary artery disease	Myocardial Infarction	255	atenolol	DB00335
+DOID:3393	coronary artery disease	Myocardial Infarction	255	atenolol	DB06987
+DOID:3393	coronary artery disease	Myocardial Infarction	867	dicoumarol	DB00266
+DOID:3393	coronary artery disease	Myocardial Infarction	1587	lisinopril	DB00722
+DOID:3393	coronary artery disease	Myocardial Infarction	1786	metoprolol	DB00264
+DOID:1826	epilepsy syndrome	Absence Epilepsy	56	acetazolamide	DB00819
+DOID:1826	epilepsy syndrome	Absence Epilepsy	703	clonazepam	DB01068
+DOID:1826	epilepsy syndrome	Absence Epilepsy	1087	ethosuximide	DB00593
+DOID:1826	epilepsy syndrome	Absence Epilepsy	1606	lorazepam	DB00186
+DOID:1826	epilepsy syndrome	Absence Epilepsy	1758	methsuximide	DB05246
+DOID:1826	epilepsy syndrome	Absence Epilepsy	2059	paramethadione	DB00617
+DOID:1826	epilepsy syndrome	Absence Epilepsy	2139	phensuximide	DB00832
+DOID:1826	epilepsy syndrome	Absence Epilepsy	2751	trimethadione	DB00347
+DOID:1826	epilepsy syndrome	Acute Repetitive Seizures	852	diazepam	DB00829
+DOID:1826	epilepsy syndrome	Epilepsy	489	carbamazepine	DB00564
+DOID:1826	epilepsy syndrome	Epilepsy	1140	felbamate	DB00949
+DOID:1826	epilepsy syndrome	Epilepsy	1247	fosphenytoin	DB01320
+DOID:1826	epilepsy syndrome	Epilepsy	1540	lamotrigine	DB00555
+DOID:1826	epilepsy syndrome	Epilepsy	1695	mephenytoin	DB00532
+DOID:1826	epilepsy syndrome	Epilepsy	1740	metharbital	DB00463
+DOID:1826	epilepsy syndrome	Epilepsy	1758	methsuximide	DB05246
+DOID:1826	epilepsy syndrome	Epilepsy	2059	paramethadione	DB00617
+DOID:1826	epilepsy syndrome	Epilepsy	2095	pentobarbital	DB00312
+DOID:1826	epilepsy syndrome	Epilepsy	2139	phensuximide	DB00832
+DOID:1826	epilepsy syndrome	Epilepsy	2152	phenytoin	DB00252
+DOID:1826	epilepsy syndrome	Epilepsy	2267	primidone	DB00794
+DOID:1826	epilepsy syndrome	Epilepsy	2377	rifampicin	DB01045
+DOID:1826	epilepsy syndrome	Epilepsy	2428	secobarbital	DB00418
+DOID:1826	epilepsy syndrome	Epilepsy	2633	thiopental	DB00599
+DOID:1826	epilepsy syndrome	Epilepsy	2751	trimethadione	DB00347
+DOID:1826	epilepsy syndrome	Focal Epilepsy	489	carbamazepine	DB00564
+DOID:1826	epilepsy syndrome	Focal Epilepsy	1695	mephenytoin	DB00532
+DOID:1826	epilepsy syndrome	Focal Epilepsy	2017	oxcarbazepine	DB00776
+DOID:1826	epilepsy syndrome	Focal Epilepsy	2152	phenytoin	DB00252
+DOID:1826	epilepsy syndrome	Focal Epilepsy	2267	primidone	DB00794
+DOID:1826	epilepsy syndrome	Infantile Spasms	2819	vigabatrin	DB01080
+DOID:1826	epilepsy syndrome	Myoclonic Epilepsy	703	clonazepam	DB01068
+DOID:1826	epilepsy syndrome	Myoclonic Epilepsy	1606	lorazepam	DB00186
+DOID:1826	epilepsy syndrome	Myoclonic Epilepsy	1945	nitrazepam	DB01595
+DOID:1826	epilepsy syndrome	Seizure Disorder	2095	pentobarbital	DB00312
+DOID:1826	epilepsy syndrome	Seizure Disorder	2428	secobarbital	DB00418
+DOID:1826	epilepsy syndrome	Status Epilepticus	852	diazepam	DB00829
+DOID:1826	epilepsy syndrome	Status Epilepticus	1247	fosphenytoin	DB01320
+DOID:1826	epilepsy syndrome	Status Epilepticus	1606	lorazepam	DB00186
+DOID:1826	epilepsy syndrome	Status Epilepticus	2095	pentobarbital	DB00312
+DOID:1826	epilepsy syndrome	Status Epilepticus	2152	phenytoin	DB00252
+DOID:1826	epilepsy syndrome	Status Epilepticus	2428	secobarbital	DB00418
+DOID:1826	epilepsy syndrome	Tonic-Clonic Epilepsy	489	carbamazepine	DB00564
+DOID:1826	epilepsy syndrome	Tonic-Clonic Epilepsy	1088	ethotoin	DB00754
+DOID:1826	epilepsy syndrome	Tonic-Clonic Epilepsy	1740	metharbital	DB00463
+DOID:1826	epilepsy syndrome	Tonic-Clonic Epilepsy	2152	phenytoin	DB00252
+DOID:1826	epilepsy syndrome	Tonic-Clonic Epilepsy	2267	primidone	DB00794
+DOID:1826	epilepsy syndrome	Tonic-Clonic Epilepsy	2706	topiramate	DB00273
+DOID:2994	germ cell cancer	Benign Hydatidiform Mole	912	dinoprost	DB01160
+DOID:2994	germ cell cancer	Benign Hydatidiform Mole	913	dinoprostone	DB00917
+DOID:2994	germ cell cancer	Gestational Trophoblastic Neoplasm	1751	methotrexate	DB00563
+DOID:1686	glaucoma	Glaucoma	433	bupranolol	DB08808
+DOID:1686	glaucoma	Glaucoma	982	echothiophate	DB01057
+DOID:1686	glaucoma	Narrow Angle Glaucoma	56	acetazolamide	DB00819
+DOID:1686	glaucoma	Narrow Angle Glaucoma	864	dichlorphenamide	DB01144
+DOID:1686	glaucoma	Narrow Angle Glaucoma	1741	methazolamide	DB00703
+DOID:1686	glaucoma	Narrow Angle Glaucoma	2512	sulfamethizole	DB00576
+DOID:1686	glaucoma	Ocular Hypertension	356	betaxolol	DB00195
+DOID:1686	glaucoma	Ocular Hypertension	371	bimatoprost	DB00905
+DOID:1686	glaucoma	Ocular Hypertension	395	brimonidine	DB00484
+DOID:1686	glaucoma	Ocular Hypertension	396	brinzolamide	DB01194
+DOID:1686	glaucoma	Ocular Hypertension	520	carteolol	DB00521
+DOID:1686	glaucoma	Ocular Hypertension	949	dorzolamide	DB00869
+DOID:1686	glaucoma	Ocular Hypertension	1551	latanoprost	DB00654
+DOID:1686	glaucoma	Ocular Hypertension	4752	levobetaxolol	DB00195
+DOID:1686	glaucoma	Ocular Hypertension	431	levobunolol	DB01210
+DOID:1686	glaucoma	Ocular Hypertension	1779	metipranolol	DB01214
+DOID:1686	glaucoma	Ocular Hypertension	2044	paclitaxel	DB01229
+DOID:1686	glaucoma	Ocular Hypertension	2166	pilocarpine	DB01085
+DOID:1686	glaucoma	Ocular Hypertension	4229	tafluprost	DB08819
+DOID:1686	glaucoma	Ocular Hypertension	4061	timolol	DB00373
+DOID:1686	glaucoma	Ocular Hypertension	2716	travoprost	DB00287
+DOID:1686	glaucoma	Open Angle Glaucoma	56	acetazolamide	DB00819
+DOID:1686	glaucoma	Open Angle Glaucoma	229	apraclonidine	DB00964
+DOID:1686	glaucoma	Open Angle Glaucoma	356	betaxolol	DB00195
+DOID:1686	glaucoma	Open Angle Glaucoma	371	bimatoprost	DB00905
+DOID:1686	glaucoma	Open Angle Glaucoma	395	brimonidine	DB00484
+DOID:1686	glaucoma	Open Angle Glaucoma	396	brinzolamide	DB01194
+DOID:1686	glaucoma	Open Angle Glaucoma	488	carbachol	DB00411
+DOID:1686	glaucoma	Open Angle Glaucoma	520	carteolol	DB00521
+DOID:1686	glaucoma	Open Angle Glaucoma	704	clonidine	DB00575
+DOID:1686	glaucoma	Open Angle Glaucoma	864	dichlorphenamide	DB01144
+DOID:1686	glaucoma	Open Angle Glaucoma	922	dipivefrine	DB00449
+DOID:1686	glaucoma	Open Angle Glaucoma	949	dorzolamide	DB00869
+DOID:1686	glaucoma	Open Angle Glaucoma	982	echothiophate	DB01057
+DOID:1686	glaucoma	Open Angle Glaucoma	1028	epinephrine	DB00668
+DOID:1686	glaucoma	Open Angle Glaucoma	1551	latanoprost	DB00654
+DOID:1686	glaucoma	Open Angle Glaucoma	4752	levobetaxolol	DB00195
+DOID:1686	glaucoma	Open Angle Glaucoma	431	levobunolol	DB01210
+DOID:1686	glaucoma	Open Angle Glaucoma	1741	methazolamide	DB00703
+DOID:1686	glaucoma	Open Angle Glaucoma	1779	metipranolol	DB01214
+DOID:1686	glaucoma	Open Angle Glaucoma	2044	paclitaxel	DB01229
+DOID:1686	glaucoma	Open Angle Glaucoma	2159	physostigmine	DB00981
+DOID:1686	glaucoma	Open Angle Glaucoma	2166	pilocarpine	DB01085
+DOID:1686	glaucoma	Open Angle Glaucoma	2512	sulfamethizole	DB00576
+DOID:1686	glaucoma	Open Angle Glaucoma	4229	tafluprost	DB08819
+DOID:1686	glaucoma	Open Angle Glaucoma	4061	timolol	DB00373
+DOID:1686	glaucoma	Open Angle Glaucoma	2716	travoprost	DB00287
+DOID:13189	gout	Gout	124	allopurinol	DB00437
+DOID:13189	gout	Gout	1440	indomethacin	DB00328
+DOID:13189	gout	Gout	1883	naproxen	DB00788
+DOID:13189	gout	Gout	1883	naproxen	DB08298
+DOID:13189	gout	Gouty Arthritis	124	allopurinol	DB00437
+DOID:13189	gout	Gouty Arthritis	348	betamethasone	DB00443
+DOID:13189	gout	Gouty Arthritis	348	betamethasone	DB01234
+DOID:13189	gout	Gouty Arthritis	824	dexamethasone	DB00443
+DOID:13189	gout	Gouty Arthritis	824	dexamethasone	DB01234
+DOID:13189	gout	Gouty Arthritis	1388	hydrocortisone	DB00741
+DOID:13189	gout	Gouty Arthritis	1388	hydrocortisone	DB07886
+DOID:13189	gout	Gouty Arthritis	1768	methylprednisolone	DB00959
+DOID:13189	gout	Gouty Arthritis	2245	prednisolone	DB00860
+DOID:13189	gout	Gouty Arthritis	2253	prednisone	DB00635
+DOID:13189	gout	Gouty Arthritis	2268	probenecid	DB01032
+DOID:13189	gout	Gouty Arthritis	2534	sulindac	DB00605
+DOID:13189	gout	Gouty Arthritis	2725	triamcinolone	DB00620
+DOID:2531	hematologic cancer	Acute Lymphoid Leukemia	348	betamethasone	DB00443
+DOID:2531	hematologic cancer	Acute Lymphoid Leukemia	348	betamethasone	DB01234
+DOID:2531	hematologic cancer	Acute Lymphoid Leukemia	691	clofarabine	DB00631
+DOID:2531	hematologic cancer	Acute Lymphoid Leukemia	770	cytarabine	DB00987
+DOID:2531	hematologic cancer	Acute Lymphoid Leukemia	770	cytarabine	DB02097
+DOID:2531	hematologic cancer	Acute Lymphoid Leukemia	770	cytarabine	DB05494
+DOID:2531	hematologic cancer	Acute Lymphoid Leukemia	786	daunorubicin	DB00694
+DOID:2531	hematologic cancer	Acute Lymphoid Leukemia	824	dexamethasone	DB00443
+DOID:2531	hematologic cancer	Acute Lymphoid Leukemia	824	dexamethasone	DB01234
+DOID:2531	hematologic cancer	Acute Lymphoid Leukemia	1388	hydrocortisone	DB00741
+DOID:2531	hematologic cancer	Acute Lymphoid Leukemia	1388	hydrocortisone	DB07886
+DOID:2531	hematologic cancer	Acute Lymphoid Leukemia	1708	mercaptopurine	DB01033
+DOID:2531	hematologic cancer	Acute Lymphoid Leukemia	1751	methotrexate	DB00563
+DOID:2531	hematologic cancer	Acute Lymphoid Leukemia	1768	methylprednisolone	DB00959
+DOID:2531	hematologic cancer	Acute Lymphoid Leukemia	2245	prednisolone	DB00860
+DOID:2531	hematologic cancer	Acute Lymphoid Leukemia	2253	prednisone	DB00635
+DOID:2531	hematologic cancer	Acute Lymphoid Leukemia	2590	teniposide	DB00444
+DOID:2531	hematologic cancer	Acute Lymphoid Leukemia	2725	triamcinolone	DB00620
+DOID:2531	hematologic cancer	Acute Lymphoid Leukemia	2825	vincristine	DB00541
+DOID:2531	hematologic cancer	Acute Monocytic Leukemia	786	daunorubicin	DB00694
+DOID:2531	hematologic cancer	Acute Myeloid Leukemia	770	cytarabine	DB00987
+DOID:2531	hematologic cancer	Acute Myeloid Leukemia	770	cytarabine	DB02097
+DOID:2531	hematologic cancer	Acute Myeloid Leukemia	770	cytarabine	DB05494
+DOID:2531	hematologic cancer	Acute Myeloid Leukemia	786	daunorubicin	DB00694
+DOID:2531	hematologic cancer	Acute Myeloid Leukemia	790	decitabine	DB01262
+DOID:2531	hematologic cancer	Acute Myeloid Leukemia	1375	histamine	DB00667
+DOID:2531	hematologic cancer	Acute Myeloid Leukemia	1375	histamine	DB05381
+DOID:2531	hematologic cancer	Acute Myeloid Leukemia	1375	histamine	DB05891
+DOID:2531	hematologic cancer	Acute Myeloid Leukemia	1414	idarubicin	DB01177
+DOID:2531	hematologic cancer	Acute Myeloid Leukemia	1821	mitoxantrone	DB01204
+DOID:2531	hematologic cancer	Acute Myeloid Leukemia	2632	thioguanine	DB00352
+DOID:2531	hematologic cancer	Acute Promyelocytic Leukemia	770	cytarabine	DB00987
+DOID:2531	hematologic cancer	Acute Promyelocytic Leukemia	770	cytarabine	DB02097
+DOID:2531	hematologic cancer	Acute Promyelocytic Leukemia	770	cytarabine	DB05494
+DOID:2531	hematologic cancer	Acute Promyelocytic Leukemia	786	daunorubicin	DB00694
+DOID:2531	hematologic cancer	Acute Promyelocytic Leukemia	1414	idarubicin	DB01177
+DOID:2531	hematologic cancer	Acute Promyelocytic Leukemia	1708	mercaptopurine	DB01033
+DOID:2531	hematologic cancer	Acute Promyelocytic Leukemia	2722	tretinoin	DB00523
+DOID:2531	hematologic cancer	Acute Promyelocytic Leukemia	2722	tretinoin	DB00755
+DOID:2531	hematologic cancer	Acute Promyelocytic Leukemia	2722	tretinoin	DB00982
+DOID:2531	hematologic cancer	Burkitt's Lymphoma	824	dexamethasone	DB00443
+DOID:2531	hematologic cancer	Burkitt's Lymphoma	824	dexamethasone	DB01234
+DOID:2531	hematologic cancer	Burkitt's Lymphoma	1751	methotrexate	DB00563
+DOID:2531	hematologic cancer	Burkitt's Lymphoma	2825	vincristine	DB00541
+DOID:2531	hematologic cancer	Chronic Lymphoid Leukemia	1174	alvocidib	DB03496
+DOID:2531	hematologic cancer	Chronic Lymphoid Leukemia	2253	prednisone	DB00635
+DOID:2531	hematologic cancer	Chronic Myelocytic Leukemia	1399	hydroxycarbamide	DB01005
+DOID:2531	hematologic cancer	Chronic Myelocytic Leukemia	4716	ponatinib	DB08901
+DOID:2531	hematologic cancer	Essential Thrombocytosis	209	anagrelide	DB00261
+DOID:2531	hematologic cancer	Hairy Cell Leukemia	2098	pentostatin	DB00552
+DOID:2531	hematologic cancer	Hodgkin's Lymphoma	348	betamethasone	DB00443
+DOID:2531	hematologic cancer	Hodgkin's Lymphoma	348	betamethasone	DB01234
+DOID:2531	hematologic cancer	Hodgkin's Lymphoma	512	carmustine	DB00262
+DOID:2531	hematologic cancer	Hodgkin's Lymphoma	824	dexamethasone	DB00443
+DOID:2531	hematologic cancer	Hodgkin's Lymphoma	824	dexamethasone	DB01234
+DOID:2531	hematologic cancer	Hodgkin's Lymphoma	1388	hydrocortisone	DB00741
+DOID:2531	hematologic cancer	Hodgkin's Lymphoma	1388	hydrocortisone	DB07886
+DOID:2531	hematologic cancer	Hodgkin's Lymphoma	1768	methylprednisolone	DB00959
+DOID:2531	hematologic cancer	Hodgkin's Lymphoma	2245	prednisolone	DB00860
+DOID:2531	hematologic cancer	Hodgkin's Lymphoma	2253	prednisone	DB00635
+DOID:2531	hematologic cancer	Hodgkin's Lymphoma	2725	triamcinolone	DB00620
+DOID:2531	hematologic cancer	Hodgkin's Lymphoma	2825	vincristine	DB00541
+DOID:2531	hematologic cancer	Multiple Myeloma	391	bortezomib	DB00188
+DOID:2531	hematologic cancer	Multiple Myeloma	391	bortezomib	DB07475
+DOID:2531	hematologic cancer	Multiple Myeloma	4483	carfilzomib	DB08889
+DOID:2531	hematologic cancer	Multiple Myeloma	512	carmustine	DB00262
+DOID:2531	hematologic cancer	Multiple Myeloma	3317	lenalidomide	DB00480
+DOID:2531	hematologic cancer	Multiple Myeloma	4410	plerixafor	DB06809
+DOID:2531	hematologic cancer	Multiple Myeloma	4746	pomalidomide	DB08910
+DOID:2531	hematologic cancer	Multiple Myeloma	2616	thalidomide	DB01041
+DOID:2531	hematologic cancer	Mycosis Fungoides	348	betamethasone	DB00443
+DOID:2531	hematologic cancer	Mycosis Fungoides	348	betamethasone	DB01234
+DOID:2531	hematologic cancer	Mycosis Fungoides	824	dexamethasone	DB00443
+DOID:2531	hematologic cancer	Mycosis Fungoides	824	dexamethasone	DB01234
+DOID:2531	hematologic cancer	Mycosis Fungoides	1388	hydrocortisone	DB00741
+DOID:2531	hematologic cancer	Mycosis Fungoides	1388	hydrocortisone	DB07886
+DOID:2531	hematologic cancer	Mycosis Fungoides	1751	methotrexate	DB00563
+DOID:2531	hematologic cancer	Mycosis Fungoides	1768	methylprednisolone	DB00959
+DOID:2531	hematologic cancer	Mycosis Fungoides	1770	methylprednisolone acetate	DB00959
+DOID:2531	hematologic cancer	Mycosis Fungoides	2245	prednisolone	DB00860
+DOID:2531	hematologic cancer	Mycosis Fungoides	2253	prednisone	DB00635
+DOID:2531	hematologic cancer	Mycosis Fungoides	2725	triamcinolone	DB00620
+DOID:2531	hematologic cancer	Myelodysplastic Syndrome	25	azacitidine	DB00928
+DOID:2531	hematologic cancer	Myelodysplastic Syndrome	790	decitabine	DB01262
+DOID:2531	hematologic cancer	Myelodysplastic Syndrome	3317	lenalidomide	DB00480
+DOID:2531	hematologic cancer	Myelofibrosis	4190	ruxolitinib	DB08877
+DOID:2531	hematologic cancer	Myeloproliferative Disorders	4190	ruxolitinib	DB08877
+DOID:2531	hematologic cancer	Progressive Chronic Lymphocytic Leukemia	1189	fludarabine phosphate	DB04441
+DOID:10763	hypertension	Hypertension	6	(S)-nitrendipine	DB01054
+DOID:10763	hypertension	Hypertension	40	acebutolol	DB01193
+DOID:10763	hypertension	Hypertension	158	amiloride	DB00594
+DOID:10763	hypertension	Hypertension	255	atenolol	DB00335
+DOID:10763	hypertension	Hypertension	255	atenolol	DB06987
+DOID:10763	hypertension	Hypertension	257	atorvastatin	DB01076
+DOID:10763	hypertension	Hypertension	299	benazepril	DB00542
+DOID:10763	hypertension	Hypertension	305	bendroflumethiazide	DB00436
+DOID:10763	hypertension	Hypertension	356	betaxolol	DB00195
+DOID:10763	hypertension	Hypertension	380	bisoprolol	DB00612
+DOID:10763	hypertension	Hypertension	433	bupranolol	DB08808
+DOID:10763	hypertension	Hypertension	475	candesartan cilexetil	DB00796
+DOID:10763	hypertension	Hypertension	484	captopril	DB01197
+DOID:10763	hypertension	Hypertension	484	captopril	DB02032
+DOID:10763	hypertension	Hypertension	520	carteolol	DB00521
+DOID:10763	hypertension	Hypertension	522	carvedilol	DB01136
+DOID:10763	hypertension	Hypertension	609	chlorothiazide	DB00880
+DOID:10763	hypertension	Hypertension	625	chlortalidone	DB00310
+DOID:10763	hypertension	Hypertension	625	chlortalidone	DB08046
+DOID:10763	hypertension	Hypertension	641	cilazapril	DB01340
+DOID:10763	hypertension	Hypertension	674	clevidipine	DB04920
+DOID:10763	hypertension	Hypertension	704	clonidine	DB00575
+DOID:10763	hypertension	Hypertension	897	diltiazem	DB00343
+DOID:10763	hypertension	Hypertension	954	doxazosin	DB00590
+DOID:10763	hypertension	Hypertension	1005	enalapril	DB00584
+DOID:10763	hypertension	Hypertension	1032	eplerenone	DB00700
+DOID:10763	hypertension	Hypertension	1037	eprosartan	DB00876
+DOID:10763	hypertension	Hypertension	1142	felodipine	DB01023
+DOID:10763	hypertension	Hypertension	1258	furosemide	DB00695
+DOID:10763	hypertension	Hypertension	3952	guanabenz	DB00629
+DOID:10763	hypertension	Hypertension	1339	guanadrel	DB00226
+DOID:10763	hypertension	Hypertension	1342	guanethidine	DB01170
+DOID:10763	hypertension	Hypertension	1343	guanfacine	DB01018
+DOID:10763	hypertension	Hypertension	1384	hydralazine	DB01275
+DOID:10763	hypertension	Hypertension	1385	hydrochlorothiazide	DB00999
+DOID:10763	hypertension	Hypertension	1392	hydroflumethiazide	DB00774
+DOID:10763	hypertension	Hypertension	1433	indapamide	DB00808
+DOID:10763	hypertension	Hypertension	1433	indapamide	DB07467
+DOID:10763	hypertension	Hypertension	1481	irbesartan	DB01029
+DOID:10763	hypertension	Hypertension	1508	isotretinoin	DB00523
+DOID:10763	hypertension	Hypertension	1508	isotretinoin	DB00755
+DOID:10763	hypertension	Hypertension	1508	isotretinoin	DB00982
+DOID:10763	hypertension	Hypertension	1511	isradipine	DB00270
+DOID:10763	hypertension	Hypertension	1531	labetalol	DB00598
+DOID:10763	hypertension	Hypertension	4157	lercanidipine	DB00528
+DOID:10763	hypertension	Hypertension	1587	lisinopril	DB00722
+DOID:10763	hypertension	Hypertension	1646	mecamylamine	DB00657
+DOID:10763	hypertension	Hypertension	1759	methylclothiazide	DB00232
+DOID:10763	hypertension	Hypertension	1762	methyldopa	DB00968
+DOID:10763	hypertension	Hypertension	1783	metolazone	DB00524
+DOID:10763	hypertension	Hypertension	1786	metoprolol	DB00264
+DOID:10763	hypertension	Hypertension	1797	mibefradil	DB01388
+DOID:10763	hypertension	Hypertension	1814	minoxidil	DB00350
+DOID:10763	hypertension	Hypertension	1827	moexipril	DB00691
+DOID:10763	hypertension	Hypertension	1865	nadolol	DB01203
+DOID:10763	hypertension	Hypertension	1887	nebivolol	DB04861
+DOID:10763	hypertension	Hypertension	1909	nicardipine	DB00622
+DOID:10763	hypertension	Hypertension	1922	nifedipine	DB01115
+DOID:10763	hypertension	Hypertension	1942	nisoldipine	DB00401
+DOID:10763	hypertension	Hypertension	1985	olmesartan medoxomil	DB00275
+DOID:10763	hypertension	Hypertension	2027	oxprenolol	DB01580
+DOID:10763	hypertension	Hypertension	2044	paclitaxel	DB01229
+DOID:10763	hypertension	Hypertension	2065	pargyline	DB01626
+DOID:10763	hypertension	Hypertension	2078	penbutolol	DB01359
+DOID:10763	hypertension	Hypertension	2176	pindolol	DB00960
+DOID:10763	hypertension	Hypertension	2201	piretanide	DB02925
+DOID:10763	hypertension	Hypertension	2228	polythiazide	DB01324
+DOID:10763	hypertension	Hypertension	4209	prazosin	DB00457
+DOID:10763	hypertension	Hypertension	2303	propranolol	DB00571
+DOID:10763	hypertension	Hypertension	2303	propranolol	DB03322
+DOID:10763	hypertension	Hypertension	2340	quinapril	DB00881
+DOID:10763	hypertension	Hypertension	2370	reserpine	DB00206
+DOID:10763	hypertension	Hypertension	2474	spirapril	DB01348
+DOID:10763	hypertension	Hypertension	2475	spironolactone	DB00421
+DOID:10763	hypertension	Hypertension	3839	tasosartan	DB01349
+DOID:10763	hypertension	Hypertension	2583	telmisartan	DB00966
+DOID:10763	hypertension	Hypertension	3584	terazosin	DB01162
+DOID:10763	hypertension	Hypertension	4061	timolol	DB00373
+DOID:10763	hypertension	Hypertension	2708	torsemide	DB00214
+DOID:10763	hypertension	Hypertension	2712	trandolapril	DB00519
+DOID:10763	hypertension	Hypertension	2728	triamterene	DB00384
+DOID:10763	hypertension	Hypertension	2733	trichlormethiazide	DB01021
+DOID:10763	hypertension	Hypertension	2733	trichlormethiazide	DB08645
+DOID:10763	hypertension	Hypertension	2806	valsartan	DB00177
+DOID:10763	hypertension	Hypertension	2815	verapamil	DB00661
+DOID:10763	hypertension	Malignant Essential Hypertension	1153	fenoldopam	DB00800
+DOID:10763	hypertension	Persistent Pulmonary Hypertension of the Newborn	1948	nitric oxide	DB00435
+DOID:10763	hypertension	Persistent Pulmonary Hypertension of the Newborn	2695	tolazoline	DB00797
+DOID:10763	hypertension	Pulmonary Hypertension	392	bosentan	DB00559
+DOID:10763	hypertension	Pulmonary Hypertension	1034	epoprostenol	DB01240
+DOID:10763	hypertension	Pulmonary Hypertension	1948	nitric oxide	DB00435
+DOID:10763	hypertension	Pulmonary Hypertension	2553	tadalafil	DB00820
+DOID:1459	hypothyroidism	Congenital Hypothyroidism	2646	levothyroxine	DB00451
+DOID:1459	hypothyroidism	Congenital Hypothyroidism	2646	levothyroxine	DB00509
+DOID:1459	hypothyroidism	Congenital Hypothyroidism	2646	levothyroxine	DB01583
+DOID:1459	hypothyroidism	Congenital Hypothyroidism	1585	liothyronine	DB00279
+DOID:1459	hypothyroidism	Congenital Hypothyroidism	1585	liothyronine	DB01583
+DOID:1459	hypothyroidism	Hypothyroidism	2646	levothyroxine	DB00451
+DOID:1459	hypothyroidism	Hypothyroidism	2646	levothyroxine	DB00509
+DOID:1459	hypothyroidism	Hypothyroidism	2646	levothyroxine	DB01583
+DOID:1459	hypothyroidism	Hypothyroidism	1585	liothyronine	DB00279
+DOID:1459	hypothyroidism	Hypothyroidism	1585	liothyronine	DB01583
+DOID:1459	hypothyroidism	Myxedema	2646	levothyroxine	DB00451
+DOID:1459	hypothyroidism	Myxedema	2646	levothyroxine	DB00509
+DOID:1459	hypothyroidism	Myxedema	2646	levothyroxine	DB01583
+DOID:1459	hypothyroidism	Myxedema	1585	liothyronine	DB00279
+DOID:1459	hypothyroidism	Myxedema	1585	liothyronine	DB01583
+DOID:263	kidney cancer	Renal Cell Carcinoma	1118	everolimus	DB01590
+DOID:263	kidney cancer	Renal Cell Carcinoma	4118	pazopanib	DB06589
+DOID:263	kidney cancer	Renal Cell Carcinoma	2446	sirolimus	DB00877
+DOID:263	kidney cancer	Renal Cell Carcinoma	2459	sorafenib	DB00398
+DOID:263	kidney cancer	Renal Cell Carcinoma	2544	sunitinib	DB01268
+DOID:263	kidney cancer	Renal Cell Carcinoma	4161	temsirolimus	DB06287
+DOID:263	kidney cancer	Wilms' Tumor	2825	vincristine	DB00541
+DOID:1024	leprosy	Leprosy	782	dapsone	DB00250
+DOID:3571	liver cancer	Malignant Neoplasm of Liver	1184	floxuridine	DB00322
+DOID:1324	lung cancer	Anaplastic Lymphoma Kinase Positive Non-Small Cell Lung Cancer	4187	crizotinib	DB08700
+DOID:1324	lung cancer	Anaplastic Lymphoma Kinase Positive Non-Small Cell Lung Cancer	4187	crizotinib	DB08865
+DOID:1324	lung cancer	Non-Small Cell Lung Cancer	939	docetaxel	DB01248
+DOID:1324	lung cancer	Non-Small Cell Lung Cancer	1045	erlotinib	DB00530
+DOID:1324	lung cancer	Non-Small Cell Lung Cancer	1282	gefitinib	DB00317
+DOID:1324	lung cancer	Non-Small Cell Lung Cancer	1283	gemcitabine	DB00441
+DOID:1324	lung cancer	Non-Small Cell Lung Cancer	2044	paclitaxel	DB01229
+DOID:1324	lung cancer	Non-Small Cell Lung Cancer	2073	pemetrexed	DB00642
+DOID:1324	lung cancer	Non-Small Cell Lung Cancer	2827	vinorelbine	DB00361
+DOID:1324	lung cancer	Small Cell Lung Carcinoma	1112	etoposide	DB00773
+DOID:1324	lung cancer	Small Cell Lung Carcinoma	2707	topotecan	DB01030
+DOID:0060073	lymphatic system cancer	Non-Hodgkin's Lymphoma	348	betamethasone	DB00443
+DOID:0060073	lymphatic system cancer	Non-Hodgkin's Lymphoma	348	betamethasone	DB01234
+DOID:0060073	lymphatic system cancer	Non-Hodgkin's Lymphoma	512	carmustine	DB00262
+DOID:0060073	lymphatic system cancer	Non-Hodgkin's Lymphoma	824	dexamethasone	DB00443
+DOID:0060073	lymphatic system cancer	Non-Hodgkin's Lymphoma	824	dexamethasone	DB01234
+DOID:0060073	lymphatic system cancer	Non-Hodgkin's Lymphoma	1388	hydrocortisone	DB00741
+DOID:0060073	lymphatic system cancer	Non-Hodgkin's Lymphoma	1388	hydrocortisone	DB07886
+DOID:0060073	lymphatic system cancer	Non-Hodgkin's Lymphoma	1751	methotrexate	DB00563
+DOID:0060073	lymphatic system cancer	Non-Hodgkin's Lymphoma	1768	methylprednisolone	DB00959
+DOID:0060073	lymphatic system cancer	Non-Hodgkin's Lymphoma	2245	prednisolone	DB00860
+DOID:0060073	lymphatic system cancer	Non-Hodgkin's Lymphoma	2253	prednisone	DB00635
+DOID:0060073	lymphatic system cancer	Non-Hodgkin's Lymphoma	2725	triamcinolone	DB00620
+DOID:0060073	lymphatic system cancer	Non-Hodgkin's Lymphoma	2825	vincristine	DB00541
+DOID:12365	malaria	Malaria	2332	pyrimethamine	DB00205
+DOID:12365	malaria	Plasmodium Falciparum Malaria	258	atovaquone	DB01117
+DOID:12365	malaria	Plasmodium Falciparum Malaria	1395	hydroxychloroquine	DB01611
+DOID:12365	malaria	Plasmodium Falciparum Malaria	2282	proguanil	DB01131
+DOID:12365	malaria	Plasmodium Falciparum Malaria	2529	sulfafurazole	DB00263
+DOID:12365	malaria	Plasmodium Malariae Malaria	1395	hydroxychloroquine	DB01611
+DOID:12365	malaria	Plasmodium Ovale Malaria	1395	hydroxychloroquine	DB01611
+DOID:12365	malaria	Plasmodium Vivax Malaria	1395	hydroxychloroquine	DB01611
+DOID:12365	malaria	Plasmodium Vivax Malaria Prevention	1395	hydroxychloroquine	DB01611
+DOID:3070	malignant glioma	Malignant Glioma	512	carmustine	DB00262
+DOID:1909	melanoma	Malignant Melanoma	1399	hydroxycarbamide	DB01005
+DOID:6364	migraine	Migraine	74	acetylsalicylic acid	DB00945
+DOID:6364	migraine	Migraine	128	almotriptan	DB00918
+DOID:6364	migraine	Migraine	463	caffeine	DB00201
+DOID:6364	migraine	Migraine	888	dihydroergotamine	DB00320
+DOID:6364	migraine	Migraine	995	eletriptan	DB00216
+DOID:6364	migraine	Migraine	1043	ergotamine	DB00696
+DOID:6364	migraine	Migraine	1251	frovatriptan	DB00998
+DOID:6364	migraine	Migraine	1883	naproxen	DB00788
+DOID:6364	migraine	Migraine	1883	naproxen	DB08298
+DOID:6364	migraine	Migraine	1884	naratriptan	DB00952
+DOID:6364	migraine	Migraine	52	paracetamol	DB00316
+DOID:6364	migraine	Migraine	2393	rizatriptan	DB00953
+DOID:6364	migraine	Migraine	2397	rofecoxib	DB00533
+DOID:6364	migraine	Migraine	2543	sumatriptan	DB00669
+DOID:6364	migraine	Migraine	2869	zolmitriptan	DB00315
+DOID:2377	multiple sclerosis	Multiple Sclerosis	348	betamethasone	DB00443
+DOID:2377	multiple sclerosis	Multiple Sclerosis	348	betamethasone	DB01234
+DOID:2377	multiple sclerosis	Multiple Sclerosis	824	dexamethasone	DB00443
+DOID:2377	multiple sclerosis	Multiple Sclerosis	824	dexamethasone	DB01234
+DOID:2377	multiple sclerosis	Multiple Sclerosis	4163	fampridine	DB06637
+DOID:2377	multiple sclerosis	Multiple Sclerosis	1388	hydrocortisone	DB00741
+DOID:2377	multiple sclerosis	Multiple Sclerosis	1388	hydrocortisone	DB07886
+DOID:2377	multiple sclerosis	Multiple Sclerosis	1768	methylprednisolone	DB00959
+DOID:2377	multiple sclerosis	Multiple Sclerosis	2245	prednisolone	DB00860
+DOID:2377	multiple sclerosis	Multiple Sclerosis	2253	prednisone	DB00635
+DOID:2377	multiple sclerosis	Multiple Sclerosis	2725	triamcinolone	DB00620
+DOID:2377	multiple sclerosis	Relapsing and Remitting Multiple Sclerosis	4167	fingolimod	DB05286
+DOID:2377	multiple sclerosis	Relapsing and Remitting Multiple Sclerosis	4167	fingolimod	DB08868
+DOID:2377	multiple sclerosis	Relapsing and Remitting Multiple Sclerosis	1821	mitoxantrone	DB01204
+DOID:4045	muscle cancer	Rhabdomyosarcoma	2825	vincristine	DB00541
+DOID:8986	narcolepsy	Narcolepsy Syndrome	195	amfetamine	DB00182
+DOID:8986	narcolepsy	Narcolepsy Syndrome	195	amfetamine	DB01576
+DOID:8986	narcolepsy	Narcolepsy Syndrome	4501	armodafinil	DB00745
+DOID:8986	narcolepsy	Narcolepsy Syndrome	841	dexamfetamine	DB00182
+DOID:8986	narcolepsy	Narcolepsy Syndrome	841	dexamfetamine	DB01576
+DOID:8986	narcolepsy	Narcolepsy Syndrome	1767	methylphenidate	DB00422
+DOID:8986	narcolepsy	Narcolepsy Syndrome	1767	methylphenidate	DB06701
+DOID:8986	narcolepsy	Narcolepsy Syndrome	1826	modafinil	DB00745
+DOID:8986	narcolepsy	Narcolepsy Syndrome	4566	sodium oxybate	DB01440
+DOID:0050742	nicotine dependence	Nicotine Dependence	435	bupropion	DB01156
+DOID:9970	obesity	Obesity	195	amfetamine	DB00182
+DOID:9970	obesity	Obesity	195	amfetamine	DB01576
+DOID:9970	obesity	Obesity	329	benzphetamine	DB00865
+DOID:9970	obesity	Obesity	435	bupropion	DB01156
+DOID:9970	obesity	Obesity	618	chlorphentermine	DB01556
+DOID:9970	obesity	Obesity	874	diethylpropion	DB00937
+DOID:9970	obesity	Obesity	1375	histamine	DB00667
+DOID:9970	obesity	Obesity	1375	histamine	DB05381
+DOID:9970	obesity	Obesity	1375	histamine	DB05891
+DOID:9970	obesity	Obesity	1640	mazindol	DB00579
+DOID:9970	obesity	Obesity	1732	methamphetamine	DB01577
+DOID:9970	obesity	Obesity	1765	naltrexone	DB00704
+DOID:9970	obesity	Obesity	1765	naltrexone	DB05302
+DOID:9970	obesity	Obesity	1765	naltrexone	DB05508
+DOID:9970	obesity	Obesity	1996	orlistat	DB01083
+DOID:9970	obesity	Obesity	2122	phendimetrazine	DB01579
+DOID:9970	obesity	Obesity	2133	phenmetrazine	DB00830
+DOID:9970	obesity	Obesity	2140	phentermine	DB00191
+DOID:9970	obesity	Obesity	4150	rimonabant	DB06155
+DOID:9970	obesity	Obesity	2440	sibutramine	DB01105
+DOID:11476	osteoporosis	Osteoporosis	2840	colecalciferol	DB00169
+DOID:11476	osteoporosis	Osteoporosis	2838	ergocalciferol	DB00153
+DOID:11476	osteoporosis	Osteoporosis	2387	risedronic acid	DB00884
+DOID:11476	osteoporosis	Osteoporosis	2868	zoledronic acid	DB00399
+DOID:2394	ovarian cancer	Ovarian Carcinoma	1283	gemcitabine	DB00441
+DOID:2394	ovarian cancer	Ovarian Carcinoma	1399	hydroxycarbamide	DB01005
+DOID:2394	ovarian cancer	Ovarian Carcinoma	2044	paclitaxel	DB01229
+DOID:2394	ovarian cancer	Ovarian Carcinoma	2707	topotecan	DB01030
+DOID:1793	pancreatic cancer	Insulinoma	854	diazoxide	DB01119
+DOID:1793	pancreatic cancer	Pancreatic Adenocarcinoma	1045	erlotinib	DB00530
+DOID:1793	pancreatic cancer	Pancreatic Adenocarcinoma	26	fluorouracil	DB00544
+DOID:1793	pancreatic cancer	Pancreatic Adenocarcinoma	1283	gemcitabine	DB00441
+DOID:594	panic disorder	Panic Disorder	136	alprazolam	DB00404
+DOID:594	panic disorder	Panic Disorder	703	clonazepam	DB01068
+DOID:594	panic disorder	Panic Disorder	1209	fluoxetine	DB00472
+DOID:594	panic disorder	Panic Disorder	1209	fluoxetine	DB08472
+DOID:594	panic disorder	Panic Disorder	1209	fluoxetine	DB08544
+DOID:594	panic disorder	Panic Disorder	1606	lorazepam	DB00186
+DOID:594	panic disorder	Panic Disorder	2068	paroxetine	DB00715
+DOID:594	panic disorder	Panic Disorder	2436	sertraline	DB01104
+DOID:594	panic disorder	Panic Disorder	2436	sertraline	DB08567
+DOID:594	panic disorder	Panic Disorder	2813	venlafaxine	DB00285
+DOID:1192	peripheral nervous system neoplasm	Neuroblastoma	2825	vincristine	DB00541
+DOID:12236	primary biliary cirrhosis	Primary Biliary Cirrhosis	2797	ursodiol	DB01586
+DOID:12236	primary biliary cirrhosis	Primary Biliary Cirrhosis	2797	ursodiol	DB06777
+DOID:10283	prostate cancer	Metastatic Castration-Resistant Prostate Cancer	4176	abiraterone acetate	DB05812
+DOID:10283	prostate cancer	Metastatic Castration-Resistant Prostate Cancer	939	docetaxel	DB01248
+DOID:10283	prostate cancer	Metastatic Castration-Resistant Prostate Cancer	4628	enzalutamide	DB08899
+DOID:10283	prostate cancer	Prostatic Carcinoma	1223	flutamide	DB00499
+DOID:8893	psoriasis	Psoriasis	348	betamethasone	DB00443
+DOID:8893	psoriasis	Psoriasis	348	betamethasone	DB01234
+DOID:8893	psoriasis	Psoriasis	824	dexamethasone	DB00443
+DOID:8893	psoriasis	Psoriasis	824	dexamethasone	DB01234
+DOID:8893	psoriasis	Psoriasis	1116	etretinate	DB00926
+DOID:8893	psoriasis	Psoriasis	1388	hydrocortisone	DB00741
+DOID:8893	psoriasis	Psoriasis	1388	hydrocortisone	DB07886
+DOID:8893	psoriasis	Psoriasis	1751	methotrexate	DB00563
+DOID:8893	psoriasis	Psoriasis	1768	methylprednisolone	DB00959
+DOID:8893	psoriasis	Psoriasis	2245	prednisolone	DB00860
+DOID:8893	psoriasis	Psoriasis	2253	prednisone	DB00635
+DOID:8893	psoriasis	Psoriasis	2571	tazarotene	DB00799
+DOID:8893	psoriasis	Psoriasis	2725	triamcinolone	DB00620
+DOID:9008	psoriatic arthritis	Psoriatic Arthritis	348	betamethasone	DB00443
+DOID:9008	psoriatic arthritis	Psoriatic Arthritis	348	betamethasone	DB01234
+DOID:9008	psoriatic arthritis	Psoriatic Arthritis	824	dexamethasone	DB00443
+DOID:9008	psoriatic arthritis	Psoriatic Arthritis	824	dexamethasone	DB01234
+DOID:9008	psoriatic arthritis	Psoriatic Arthritis	1388	hydrocortisone	DB00741
+DOID:9008	psoriatic arthritis	Psoriatic Arthritis	1388	hydrocortisone	DB07886
+DOID:9008	psoriatic arthritis	Psoriatic Arthritis	1552	leflunomide	DB01097
+DOID:9008	psoriatic arthritis	Psoriatic Arthritis	1768	methylprednisolone	DB00959
+DOID:9008	psoriatic arthritis	Psoriatic Arthritis	2245	prednisolone	DB00860
+DOID:9008	psoriatic arthritis	Psoriatic Arthritis	2253	prednisone	DB00635
+DOID:9008	psoriatic arthritis	Psoriatic Arthritis	2725	triamcinolone	DB00620
+DOID:9835	refractive error	Esotropia	982	echothiophate	DB01057
+DOID:0050425	restless legs syndrome	Restless Legs Syndrome	1264	gabapentin	DB00996
+DOID:0050425	restless legs syndrome	Restless Legs Syndrome	2233	pramipexole	DB00413
+DOID:0050425	restless legs syndrome	Restless Legs Syndrome	2402	ropinirole	DB00268
+DOID:0050425	restless legs syndrome	Restless Legs Syndrome	2407	rotigotine	DB05271
+DOID:7148	rheumatoid arthritis	Rheumatoid Arthritis	74	acetylsalicylic acid	DB00945
+DOID:7148	rheumatoid arthritis	Rheumatoid Arthritis	348	betamethasone	DB00443
+DOID:7148	rheumatoid arthritis	Rheumatoid Arthritis	348	betamethasone	DB01234
+DOID:7148	rheumatoid arthritis	Rheumatoid Arthritis	568	celecoxib	DB00482
+DOID:7148	rheumatoid arthritis	Rheumatoid Arthritis	760	ciclosporin	DB00091
+DOID:7148	rheumatoid arthritis	Rheumatoid Arthritis	824	dexamethasone	DB00443
+DOID:7148	rheumatoid arthritis	Rheumatoid Arthritis	824	dexamethasone	DB01234
+DOID:7148	rheumatoid arthritis	Rheumatoid Arthritis	865	diclofenac	DB00586
+DOID:7148	rheumatoid arthritis	Rheumatoid Arthritis	880	diflunisal	DB00861
+DOID:7148	rheumatoid arthritis	Rheumatoid Arthritis	1103	etodolac	DB00749
+DOID:7148	rheumatoid arthritis	Rheumatoid Arthritis	1154	fenoprofen	DB00573
+DOID:7148	rheumatoid arthritis	Rheumatoid Arthritis	1219	flurbiprofen	DB00712
+DOID:7148	rheumatoid arthritis	Rheumatoid Arthritis	1219	flurbiprofen	DB05289
+DOID:7148	rheumatoid arthritis	Rheumatoid Arthritis	1388	hydrocortisone	DB00741
+DOID:7148	rheumatoid arthritis	Rheumatoid Arthritis	1388	hydrocortisone	DB07886
+DOID:7148	rheumatoid arthritis	Rheumatoid Arthritis	1395	hydroxychloroquine	DB01611
+DOID:7148	rheumatoid arthritis	Rheumatoid Arthritis	1407	ibuprofen	DB01050
+DOID:7148	rheumatoid arthritis	Rheumatoid Arthritis	1440	indomethacin	DB00328
+DOID:7148	rheumatoid arthritis	Rheumatoid Arthritis	1528	ketoprofen	DB01009
+DOID:7148	rheumatoid arthritis	Rheumatoid Arthritis	1547	lansoprazole	DB00448
+DOID:7148	rheumatoid arthritis	Rheumatoid Arthritis	1552	leflunomide	DB01097
+DOID:7148	rheumatoid arthritis	Rheumatoid Arthritis	1650	meclofenamic acid	DB00939
+DOID:7148	rheumatoid arthritis	Rheumatoid Arthritis	1676	meloxicam	DB00814
+DOID:7148	rheumatoid arthritis	Rheumatoid Arthritis	1751	methotrexate	DB00563
+DOID:7148	rheumatoid arthritis	Rheumatoid Arthritis	1768	methylprednisolone	DB00959
+DOID:7148	rheumatoid arthritis	Rheumatoid Arthritis	1863	nabumetone	DB00461
+DOID:7148	rheumatoid arthritis	Rheumatoid Arthritis	1883	naproxen	DB00788
+DOID:7148	rheumatoid arthritis	Rheumatoid Arthritis	1883	naproxen	DB08298
+DOID:7148	rheumatoid arthritis	Rheumatoid Arthritis	2013	oxaprozin	DB00991
+DOID:7148	rheumatoid arthritis	Rheumatoid Arthritis	2210	piroxicam	DB00554
+DOID:7148	rheumatoid arthritis	Rheumatoid Arthritis	2245	prednisolone	DB00860
+DOID:7148	rheumatoid arthritis	Rheumatoid Arthritis	2253	prednisone	DB00635
+DOID:7148	rheumatoid arthritis	Rheumatoid Arthritis	2397	rofecoxib	DB00533
+DOID:7148	rheumatoid arthritis	Rheumatoid Arthritis	2529	sulfafurazole	DB00263
+DOID:7148	rheumatoid arthritis	Rheumatoid Arthritis	2525	sulfasalazine	DB00795
+DOID:7148	rheumatoid arthritis	Rheumatoid Arthritis	2534	sulindac	DB00605
+DOID:7148	rheumatoid arthritis	Rheumatoid Arthritis	2652	tiaprofenic acid	DB01600
+DOID:7148	rheumatoid arthritis	Rheumatoid Arthritis	4713	tofacitinib	DB08183
+DOID:7148	rheumatoid arthritis	Rheumatoid Arthritis	2699	tolmetin	DB00500
+DOID:7148	rheumatoid arthritis	Rheumatoid Arthritis	2725	triamcinolone	DB00620
+DOID:4159	skin cancer	Basal Cell Carcinoma of Skin	4227	vismodegib	DB08828
+DOID:10534	stomach cancer	Gastric Cancer	480	capecitabine	DB01101
+DOID:10534	stomach cancer	Gastric Cancer	939	docetaxel	DB01248
+DOID:10534	stomach cancer	Gastric Cancer	26	fluorouracil	DB00544
+DOID:10534	stomach cancer	Gastric Cancer	2002	oteracil	DB03209
+DOID:9074	systemic lupus erythematosus	Systemic Lupus Erythematosus	348	betamethasone	DB00443
+DOID:9074	systemic lupus erythematosus	Systemic Lupus Erythematosus	348	betamethasone	DB01234
+DOID:9074	systemic lupus erythematosus	Systemic Lupus Erythematosus	824	dexamethasone	DB00443
+DOID:9074	systemic lupus erythematosus	Systemic Lupus Erythematosus	824	dexamethasone	DB01234
+DOID:9074	systemic lupus erythematosus	Systemic Lupus Erythematosus	1388	hydrocortisone	DB00741
+DOID:9074	systemic lupus erythematosus	Systemic Lupus Erythematosus	1388	hydrocortisone	DB07886
+DOID:9074	systemic lupus erythematosus	Systemic Lupus Erythematosus	1395	hydroxychloroquine	DB01611
+DOID:9074	systemic lupus erythematosus	Systemic Lupus Erythematosus	1768	methylprednisolone	DB00959
+DOID:9074	systemic lupus erythematosus	Systemic Lupus Erythematosus	2245	prednisolone	DB00860
+DOID:9074	systemic lupus erythematosus	Systemic Lupus Erythematosus	2253	prednisone	DB00635
+DOID:9074	systemic lupus erythematosus	Systemic Lupus Erythematosus	2725	triamcinolone	DB00620
+DOID:418	systemic scleroderma	Scleroderma	392	bosentan	DB00559
+DOID:2998	testicular cancer	Refractory Malignant Tumor of Testis	1112	etoposide	DB00773
+DOID:1781	thyroid cancer	Thyroid Carcinoma	2646	levothyroxine	DB00451
+DOID:1781	thyroid cancer	Thyroid Carcinoma	2646	levothyroxine	DB00509
+DOID:1781	thyroid cancer	Thyroid Carcinoma	2646	levothyroxine	DB01583
+DOID:1781	thyroid cancer	Thyroid Carcinoma	1585	liothyronine	DB00279
+DOID:1781	thyroid cancer	Thyroid Carcinoma	1585	liothyronine	DB01583
+DOID:9352	type 2 diabetes mellitus	Type 2 Diabetes Mellitus	39	acarbose	DB00284
+DOID:9352	type 2 diabetes mellitus	Type 2 Diabetes Mellitus	57	acetohexamide	DB00414
+DOID:9352	type 2 diabetes mellitus	Type 2 Diabetes Mellitus	4340	alogliptin	DB06203
+DOID:9352	type 2 diabetes mellitus	Type 2 Diabetes Mellitus	4758	canagliflozin	DB08907
+DOID:9352	type 2 diabetes mellitus	Type 2 Diabetes Mellitus	622	chlorpropamide	DB00672
+DOID:9352	type 2 diabetes mellitus	Type 2 Diabetes Mellitus	4304	dapagliflozin	DB06292
+DOID:9352	type 2 diabetes mellitus	Type 2 Diabetes Mellitus	1314	glibenclamide	DB01016
+DOID:9352	type 2 diabetes mellitus	Type 2 Diabetes Mellitus	1298	glibornuride	DB08962
+DOID:9352	type 2 diabetes mellitus	Type 2 Diabetes Mellitus	1299	gliclazide	DB01120
+DOID:9352	type 2 diabetes mellitus	Type 2 Diabetes Mellitus	1300	glimepiride	DB00222
+DOID:9352	type 2 diabetes mellitus	Type 2 Diabetes Mellitus	1301	glipizide	DB01067
+DOID:9352	type 2 diabetes mellitus	Type 2 Diabetes Mellitus	1302	gliquidone	DB01251
+DOID:9352	type 2 diabetes mellitus	Type 2 Diabetes Mellitus	1305	glisoxepide	DB01289
+DOID:9352	type 2 diabetes mellitus	Type 2 Diabetes Mellitus	4175	linagliptin	DB08882
+DOID:9352	type 2 diabetes mellitus	Type 2 Diabetes Mellitus	1725	metformin	DB00331
+DOID:9352	type 2 diabetes mellitus	Type 2 Diabetes Mellitus	1806	miglitol	DB00491
+DOID:9352	type 2 diabetes mellitus	Type 2 Diabetes Mellitus	1818	mitiglinide	DB01252
+DOID:9352	type 2 diabetes mellitus	Type 2 Diabetes Mellitus	1886	nateglinide	DB00731
+DOID:9352	type 2 diabetes mellitus	Type 2 Diabetes Mellitus	2179	pioglitazone	DB01132
+DOID:9352	type 2 diabetes mellitus	Type 2 Diabetes Mellitus	2366	repaglinide	DB00912
+DOID:9352	type 2 diabetes mellitus	Type 2 Diabetes Mellitus	4114	saxagliptin	DB06335
+DOID:9352	type 2 diabetes mellitus	Type 2 Diabetes Mellitus	4114	saxagliptin	DB07465
+DOID:9352	type 2 diabetes mellitus	Type 2 Diabetes Mellitus	2448	sitagliptin	DB01261
+DOID:9352	type 2 diabetes mellitus	Type 2 Diabetes Mellitus	2694	tolazamide	DB00839
+DOID:9352	type 2 diabetes mellitus	Type 2 Diabetes Mellitus	2696	tolbutamide	DB01124
+DOID:9352	type 2 diabetes mellitus	Type 2 Diabetes Mellitus	2767	troglitazone	DB00197
+DOID:9352	type 2 diabetes mellitus	Type 2 Diabetes Mellitus	2767	troglitazone	DB08607
+DOID:9352	type 2 diabetes mellitus	Type 2 Diabetes Mellitus	3642	vildagliptin	DB04876
+DOID:9352	type 2 diabetes mellitus	Type 2 Diabetes Mellitus	2845	voglibose	DB04878
+DOID:8577	ulcerative colitis	Ulcerative Colitis	284	balsalazide	DB01014
+DOID:8577	ulcerative colitis	Ulcerative Colitis	1388	hydrocortisone	DB00741
+DOID:8577	ulcerative colitis	Ulcerative Colitis	1388	hydrocortisone	DB07886
+DOID:8577	ulcerative colitis	Ulcerative Colitis	1710	mesalazine	DB00244
+DOID:8577	ulcerative colitis	Ulcerative Colitis	2245	prednisolone	DB00860
+DOID:8577	ulcerative colitis	Ulcerative Colitis	2500	sulfadiazine	DB00359
+DOID:8577	ulcerative colitis	Ulcerative Colitis	2529	sulfafurazole	DB00263
+DOID:8577	ulcerative colitis	Ulcerative Colitis	2525	sulfasalazine	DB00795
+DOID:11054	urinary bladder cancer	Malignant Tumor of Urinary Bladder	2805	valrubicin	DB00385
+DOID:363	uterine cancer	Endometrial Carcinoma	1659	medroxyprogesterone	DB00603
+DOID:363	uterine cancer	Endometrial Carcinoma	2279	progesterone	DB00396
+DOID:13223	uterine fibroid	Leiomyoma	4166	ulipristal	DB05366
