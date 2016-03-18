@@ -1,0 +1,3 @@
+[submodule "drugtarget"]
+	path = drugtarget
+	url = https://github.com/olegursu/drugtarget
