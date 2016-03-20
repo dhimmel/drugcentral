@@ -3,21 +3,13 @@ CHEBI:21241	vitamin C	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A212
 CHEBI:22153	acaricide	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A22153
 CHEBI:22917	phytogenic insecticide	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A22917
 CHEBI:24127	fungicide	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A24127
-CHEBI:24527	herbicide	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A24527
-CHEBI:24850	insect attractant	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A24850
 CHEBI:24852	insecticide	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A24852
-CHEBI:25943	pesticide synergist	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A25943
 CHEBI:27780	detergent	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A27780
 CHEBI:33231	antitubercular agent	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A33231
 CHEBI:33286	agrochemical	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A33286
-CHEBI:33287	fertilizer	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A33287
 CHEBI:33288	rodenticide	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A33288
 CHEBI:33289	avicide	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A33289
 CHEBI:33295	diagnostic agent	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A33295
-CHEBI:33893	reagent	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A33893
-CHEBI:33904	molluscicide	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A33904
-CHEBI:35207	radioactive tracer	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A35207
-CHEBI:35208	physical tracer	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A35208
 CHEBI:35232	radiopharmaceutical	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A35232
 CHEBI:35337	central nervous system stimulant	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A35337
 CHEBI:35441	antiinfective agent	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A35441
@@ -50,14 +42,12 @@ CHEBI:35530	beta-adrenergic antagonist	CHEBI	Application	http://identifiers.org/
 CHEBI:35554	cardiovascular drug	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A35554
 CHEBI:35569	alpha-adrenergic agonist	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A35569
 CHEBI:35610	antineoplastic agent	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A35610
-CHEBI:35617	flavouring agent	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A35617
 CHEBI:35620	vasodilator agent	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A35620
 CHEBI:35623	anticonvulsant	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A35623
 CHEBI:35640	adrenergic uptake inhibitor	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A35640
 CHEBI:35674	antihypertensive agent	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A35674
 CHEBI:35678	histamine agonist	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A35678
 CHEBI:35679	antilipemic drug	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A35679
-CHEBI:35684	antiplatyhelmintic drug	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A35684
 CHEBI:35705	immunosuppressive agent	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A35705
 CHEBI:35717	sedative	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A35717
 CHEBI:35816	leprostatic drug	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A35816
@@ -92,21 +82,15 @@ CHEBI:38147	cardiotonic drug	CHEBI	Application	http://identifiers.org/chebi/CHEB
 CHEBI:38323	cholinergic drug	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A38323
 CHEBI:38324	cholinergic agonist	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A38324
 CHEBI:38325	muscarinic agonist	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A38325
-CHEBI:38461	carbamate insecticide	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A38461
 CHEBI:38706	pediculicide	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A38706
-CHEBI:38849	blood substitute	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A38849
 CHEBI:38867	anaesthetic	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A38867
-CHEBI:38869	general anaesthetic	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A38869
 CHEBI:38870	inhalation anaesthetic	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A38870
 CHEBI:38877	intravenous anaesthetic	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A38877
 CHEBI:38941	schistosomicide drug	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A38941
 CHEBI:38956	ectoparasiticide	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A38956
 CHEBI:39116	pyrethroid ester insecticide	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A39116
-CHEBI:39412	bridged diphenyl acaricide	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A39412
-CHEBI:39442	fluorescent probe	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A39442
 CHEBI:39456	antiglaucoma drug	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A39456
 CHEBI:46787	solvent	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A46787
-CHEBI:47867	indicator	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A47867
 CHEBI:47868	photosensitizing agent	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A47868
 CHEBI:47958	nicotinic acetylcholine receptor agonist	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A47958
 CHEBI:48218	antiseptic drug	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A48218
@@ -136,7 +120,6 @@ CHEBI:49201	anti-ulcer drug	CHEBI	Application	http://identifiers.org/chebi/CHEBI
 CHEBI:49323	contraceptive drug	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A49323
 CHEBI:49324	female contraceptive drug	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A49324
 CHEBI:49326	synthetic oral contraceptive	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A49326
-CHEBI:50103	excitatory amino acid agonist	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A50103
 CHEBI:50141	bronchoconstrictor agent	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A50141
 CHEBI:50176	keratolytic drug	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A50176
 CHEBI:50177	dermatologic drug	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A50177
@@ -147,12 +130,9 @@ CHEBI:50266	prodrug	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A50266
 CHEBI:50267	protective agent	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A50267
 CHEBI:50268	GABA modulator	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A50268
 CHEBI:50370	parasympatholytic	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A50370
-CHEBI:50407	acid-base indicator	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A50407
-CHEBI:50412	two-colour indicator	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A50412
 CHEBI:50427	platelet aggregation inhibitor	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A50427
 CHEBI:50433	platelet glycoprotein-IIb/IIIa receptor antagonist	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A50433
 CHEBI:50503	laxative	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A50503
-CHEBI:50505	sweetening agent	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A50505
 CHEBI:50507	appetite depressant	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A50507
 CHEBI:50513	mydriatic agent	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A50513
 CHEBI:50514	vasoconstrictor agent	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A50514
@@ -182,7 +162,6 @@ CHEBI:51065	dopamine agonist	CHEBI	Application	http://identifiers.org/chebi/CHEB
 CHEBI:51068	miotic	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A51068
 CHEBI:51121	fluorescent dye	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A51121
 CHEBI:51177	antitussive	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A51177
-CHEBI:51217	fluorochrome	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A51217
 CHEBI:51371	muscle relaxant	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A51371
 CHEBI:51372	neuromuscular agent	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A51372
 CHEBI:51373	GABA agonist	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A51373
@@ -202,21 +181,17 @@ CHEBI:59283	delta-opioid receptor antagonist	CHEBI	Application	http://identifier
 CHEBI:59680	vasopressin  receptor antagonist	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A59680
 CHEBI:59683	antipruritic drug	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A59683
 CHEBI:59727	vasopressin receptor agonist	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A59727
-CHEBI:59740	nucleophilic reagent	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A59740
 CHEBI:59844	antihyperplasia drug	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A59844
 CHEBI:59886	HIV fusion inhibitor	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A59886
 CHEBI:60606	opioid receptor agonist	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A60606
 CHEBI:60807	anaesthesia adjuvant	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A60807
 CHEBI:60809	adjuvant	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A60809
 CHEBI:61016	angiotensin receptor antagonist	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A61016
-CHEBI:61026	bile therapy drug	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A61026
 CHEBI:62868	hepatoprotective agent	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A62868
-CHEBI:63047	food emulsifier	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A63047
 CHEBI:63533	gonadotropin releasing hormone agonist	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A63533
 CHEBI:63726	neuroprotective agent	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A63726
 CHEBI:64047	food additive	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A64047
 CHEBI:64049	food acidity regulator	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A64049
-CHEBI:64345	MALDI matrix material	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A64345
 CHEBI:64370	glutamate transporter activator	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A64370
 CHEBI:64571	NMDA receptor agonist	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A64571
 CHEBI:64577	flour treatment agent	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A64577
@@ -224,7 +199,6 @@ CHEBI:64933	melanin synthesis inhibitor	CHEBI	Application	http://identifiers.org
 CHEBI:65023	anti-asthmatic agent	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A65023
 CHEBI:65190	first generation antipsychotic	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A65190
 CHEBI:65191	second generation antipsychotic	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A65191
-CHEBI:65255	food preservative	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A65255
 CHEBI:65256	antimicrobial food preservative	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A65256
 CHEBI:65259	GABA antagonist	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A65259
 CHEBI:65265	antacid	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A65265
@@ -239,23 +213,14 @@ CHEBI:67170	anti-angiogenic agent	CHEBI	Application	http://identifiers.org/chebi
 CHEBI:67198	retinoic acid receptor agonist	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A67198
 CHEBI:70709	progesterone receptor agonist	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A70709
 CHEBI:70868	antileishmanial agent	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A70868
-CHEBI:71027	progesterone receptor modulator	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A71027
 CHEBI:71031	orphan drug	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A71031
 CHEBI:71173	H1-receptor agonist	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A71173
-CHEBI:71692	insect repellent	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A71692
 CHEBI:73182	plant activator	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A73182
-CHEBI:73296	cholecystokinin antagonist	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A73296
 CHEBI:73333	scabicide	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A73333
 CHEBI:73336	vulnerary	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A73336
-CHEBI:74152	mordant	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A74152
 CHEBI:74529	antidote to paracetamol poisoning	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A74529
 CHEBI:74530	antidote to curare poisoning	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A74530
-CHEBI:74783	astringent	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A74783
-CHEBI:75324	excipient	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A75324
-CHEBI:75358	curing agent	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A75358
 CHEBI:75769	B vitamin	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A75769
-CHEBI:75835	anti-anaemic agent	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A75835
-CHEBI:76595	nephroprotective agent	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A76595
 CHEBI:77034	mucolytic	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A77034
 CHEBI:77035	expectorant	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A77035
 CHEBI:77178	histological dye	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A77178
@@ -264,18 +229,8 @@ CHEBI:77307	cardioprotective agent	CHEBI	Application	http://identifiers.org/cheb
 CHEBI:77567	eugeroic	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A77567
 CHEBI:77608	loop diuretic	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A77608
 CHEBI:77715	nasal decongestant	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A77715
-CHEBI:77960	food firming agent	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A77960
 CHEBI:77962	food antioxidant	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A77962
 CHEBI:77965	food anticaking agent	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A77965
-CHEBI:77969	food humectant	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A77969
-CHEBI:77971	raising agent	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A77971
-CHEBI:77974	food packaging gas	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A77974
-CHEBI:78017	food propellant	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A78017
-CHEBI:78058	food antifoaming agent	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A78058
-CHEBI:78059	food additive carrier	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A78059
-CHEBI:78152	enzyme mimic	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A78152
-CHEBI:78433	refrigerant	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A78433
-CHEBI:79056	plasticiser	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A79056
 CHEBI:85046	skin lightening agent	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A85046
 CHEBI:85384	GABA reuptake inhibitor	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A85384
 CHEBI:86327	antifungal drug	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A86327
@@ -284,29 +239,17 @@ CHEBI:88188	drug allergen	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3
 CHEBI:90753	antidote to organophosphate poisoning	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A90753
 CHEBI:90755	antidote to opioid poisoning	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A90755
 CHEBI:90757	antidote to benzodiazepine poisoning	CHEBI	Application	http://identifiers.org/chebi/CHEBI%3A90757
-N0000004931	Insulin	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000004931
 N0000005760	Aminosalicylic Acids	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000005760
-N0000005793	Peptide Hydrolases	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000005793
 N0000005934	Progesterone	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000005934
 N0000006014	Pyrethrins	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000006014
-N0000006078	Secretin	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000006078
 N0000006165	Triiodothyronine	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000006165
-N0000006237	Iron	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000006237
 N0000006269	Vitamin A	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000006269
 N0000006276	Vitamin B 12	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000006276
 N0000006277	Vitamin D	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000006277
 N0000006290	Vitamin K	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000006290
 N0000006320	Vasopressins	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000006320
 N0000006337	Ergocalciferols	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000006337
-N0000006341	Heparin	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000006341
-N0000006395	Collagenases	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000006395
-N0000006421	Thyrotropin	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000006421
-N0000006473	Oxytocin	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000006473
-N0000006477	Asparaginase	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000006477
-N0000006478	Adrenocorticotropic Hormone	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000006478
 N0000006496	Nicotine	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000006496
-N0000006509	Calcitonin	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000006509
-N0000006566	Glycerol	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000006566
 N0000006688	Carnitine	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000006688
 N0000006801	Bile Acids and Salts	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000006801
 N0000006806	Amino Acids	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000006806
@@ -324,13 +267,11 @@ N0000007556	Dihydropyridines	FDA	Chemical/Ingredient	http://purl.bioontology.org
 N0000007566	Benzylamines	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000007566
 N0000007568	Oxazolidinones	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000007568
 N0000007570	Pyridines	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000007570
-N0000007575	Pyridones	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000007575
 N0000007606	Quinolones	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000007606
 N0000007618	Ergolines	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000007618
 N0000007620	Ergot Alkaloids	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000007620
 N0000007621	Ergotamines	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000007621
 N0000007632	Thyroxine	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000007632
-N0000007636	Glucosylceramidase	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000007636
 N0000007641	Nicotinic Acids	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000007641
 N0000007647	Nitrates	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000007647
 N0000007658	Nitrofurans	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000007658
@@ -345,7 +286,6 @@ N0000007706	Prostaglandins	FDA	Chemical/Ingredient	http://purl.bioontology.org/o
 N0000007707	Diphosphonates	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000007707
 N0000007710	Prostaglandins E, Synthetic	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000007710
 N0000007715	Catecholamines	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000007715
-N0000007750	Cholecystokinin	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000007750
 N0000007770	Deoxyuridine	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000007770
 N0000007780	Vinca Alkaloids	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000007780
 N0000007822	Polymyxins	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000007822
@@ -354,7 +294,6 @@ N0000007883	Amphetamines	FDA	Chemical/Ingredient	http://purl.bioontology.org/ont
 N0000007888	Bismuth	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000007888
 N0000007889	Glycopeptides	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000007889
 N0000007893	Glycosaminoglycans	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000007893
-N0000007895	Glycoside Hydrolases	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000007895
 N0000007909	Psoralens	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000007909
 N0000007911	Rifamycins	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000007911
 N0000007948	Tetracyclines	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000007948
@@ -366,69 +305,39 @@ N0000008048	Sulfonamides	FDA	Chemical/Ingredient	http://purl.bioontology.org/ont
 N0000008053	Sulfones	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000008053
 N0000008054	Sulfonylurea Compounds	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000008054
 N0000008065	Purines	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000008065
-N0000008077	Platelet-Derived Growth Factor	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000008077
 N0000008118	Xanthines	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000008118
 N0000008157	Cardiac Glycosides	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000008157
-N0000008191	Granulocyte-Macrophage Colony-Stimulating Factor	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000008191
-N0000008192	Granulocyte Colony-Stimulating Factor	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000008192
-N0000008193	Erythropoietin	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000008193
 N0000008217	Azoles	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000008217
 N0000008241	Androstanes	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000008241
-N0000008253	Boron Compounds	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000008253
 N0000011161	Cephalosporins	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000011161
-N0000011174	Antibodies, Monoclonal	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000011174
-N0000011180	Recombinant Fusion Proteins	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000011180
-N0000011199	Gonadotropins	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000011199
-N0000011221	Parathyroid Hormone	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000011221
 N0000011272	Thiazolidinediones	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000011272
 N0000011280	Prostaglandins I	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000011280
 N0000011281	Penicillins	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000011281
 N0000011294	Carbapenems	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000011294
 N0000011301	Progesterone Congeners	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000011301
 N0000011311	Monobactams	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000011311
-N0000011378	N-substituted Glycines	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000011378
-N0000011393	Oligonucleotides	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000011393
 N0000011402	Estradiol Congeners	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000011402
 N0000011414	Ketolides	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000011414
 N0000011418	Streptogramins	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000011418
-N0000011424	Interleukin-2	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000011424
-N0000011465	Natriuretic Peptides	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000011465
-N0000011471	Urate Oxidase	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000011471
-N0000166093	Radioactive Tracers	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000166093
-N0000166118	Carbon Radioisotopes	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000166118
 N0000166469	Thiazides	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000166469
 N0000166489	Quaternary Ammonium Compounds	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000166489
 N0000166743	Esters	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000166743
 N0000167094	Benzothiazoles	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000167094
 N0000167510	Estrogens, Conjugated (USP)	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000167510
-N0000167654	Alkaline Phosphatase	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000167654
-N0000167711	alpha-Glucosidases	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000167711
-N0000169367	Immunoconjugates	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000169367
 N0000170118	PPAR alpha	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000170118
 N0000170119	PPAR gamma	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000170119
-N0000170333	Leptin	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000170333
-N0000170335	Glucagon-Like Peptide 1	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000170335
-N0000170810	Aptamers, Nucleotide	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000170810
-N0000170935	Thrombopoietin	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000170935
-N0000171009	Fibroblast Growth Factor 7	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000171009
 N0000171131	Allergens	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000171131
 N0000171207	Porphyrinogens	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000171207
-N0000171387	Diphtheria Toxin	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000171387
 N0000175073	Platinum-containing Compounds	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000175073
-N0000175140	Glucagon-Like Peptide 2	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000175140
 N0000175433	pleuromutilin	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000175433
-N0000175438	Recombinant Human Growth Hormones	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000175438
 N0000175442	Lincosamides	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000175442
-N0000175452	Analogs/Derivatives	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000175452
 N0000175459	Nucleoside Analog	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000175459
 N0000175460	Non-Nucleoside Analog	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000175460
 N0000175469	Pyrophosphate Analog	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000175469
 N0000175479	Amphenicols	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000175479
 N0000175508	Lipopeptides	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000175508
 N0000175512	Methylated Sulfonamides	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000175512
-N0000175715	Vitamin B Complex Compounds	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000175715
 N0000175721	Nonsteroidal Anti-inflammatory Compounds	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000175721
-N0000183512	Antibodies, Monoclonal, Humanized	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000183512
 N0000186774	Diarylquinolines	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000186774
 N0000191280	Lipoglycopeptides	FDA	Chemical/Ingredient	http://purl.bioontology.org/ontology/NDFRT/N0000191280
 N0000175413	Platinum-based Drug	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175413
@@ -451,7 +360,6 @@ N0000175431	Macrolide Antibacterial	FDA	FDA Established Pharmacologic Class	http
 N0000175434	Pleuromutilin Antibacterial	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175434
 N0000175435	Nitroimidazole Antimicrobial	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175435
 N0000175443	Lincosamide Antibacterial	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175443
-N0000175453	Insulin Analog	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175453
 N0000175454	Prostaglandin Analog	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175454
 N0000175457	Calcineurin Inhibitor Immunosuppressant	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175457
 N0000175461	Cytomegalovirus Nucleoside Analog DNA Polymerase Inhibitor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175461
@@ -462,7 +370,6 @@ N0000175467	Nucleoside Analog Antifungal	FDA	FDA Established Pharmacologic Class
 N0000175468	Herpesvirus Nucleoside Analog DNA Polymerase Inhibitor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175468
 N0000175470	Pyrophosphate Analog DNA Polymerase Inhibitor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175470
 N0000175473	Metal Chelator	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175473
-N0000175474	Unfractionated Heparin	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175474
 N0000175476	Vitamin K Antagonist	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175476
 N0000175477	Aminoglycoside Antibacterial	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175477
 N0000175480	Amphenicol-class Antibacterial	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175480
@@ -491,7 +398,6 @@ N0000175503	Sulfonamide Antibacterial	FDA	FDA Established Pharmacologic Class	ht
 N0000175504	Sulfonamide Antimicrobial	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175504
 N0000175505	Tetracycline-class Antimicrobial	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175505
 N0000175507	Echinocandin Antifungal	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175507
-N0000175509	Lipopeptide Antibacterial	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175509
 N0000175510	Lipid-based Polyene Antifungal	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175510
 N0000175511	Methylated Sulfonamide Antibacterial	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175511
 N0000175514	Renal Dehydropeptidase Inhibitor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175514
@@ -502,7 +408,6 @@ N0000175519	Histamine-1 Receptor Inhibitor	FDA	FDA Established Pharmacologic Cla
 N0000175522	Iron Chelator	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175522
 N0000175524	Neuraminidase Inhibitor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175524
 N0000175525	Proton Pump Inhibitor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175525
-N0000175531	Endoglycosidase	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175531
 N0000175536	Diagnostic Dye	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175536
 N0000175539	Local Anesthetic	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175539
 N0000175540	Photoenhancer	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175540
@@ -525,16 +430,13 @@ N0000175566	Calcium Channel Blocker	FDA	FDA Established Pharmacologic Class	http
 N0000175568	Cardiac Glycoside	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175568
 N0000175569	Catecholamine Synthesis Inhibitor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175569
 N0000175570	Catecholamine	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175570
-N0000175571	CD33-directed Cytotoxin	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175571
 N0000175572	CCR5 Co-receptor Antagonist	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175572
 N0000175573	Chloride Channel Activator	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175573
 N0000175574	Anticholinergic	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175574
-N0000175575	Complement Inhibitor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175575
 N0000175576	Corticosteroid	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175576
 N0000175578	Platelet Aggregation Inhibitor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175578
 N0000175579	Bisphosphonate	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175579
 N0000175580	Dopaminergic Agonist	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175580
-N0000175581	Endothelin Receptor Antagonist	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175581
 N0000175584	Folate Analog Metabolic Inhibitor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175584
 N0000175586	Low Molecular Weight Heparin	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175586
 N0000175587	Histamine-1 Receptor Antagonist	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175587
@@ -543,7 +445,6 @@ N0000175589	HMG-CoA Reductase Inhibitor	FDA	FDA Established Pharmacologic Class	
 N0000175590	Loop Diuretic	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175590
 N0000175591	Intestinal Lipase Inhibitor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175591
 N0000175592	Microtubule Inhibitor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175592
-N0000175593	Natriuretic Peptide	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175593
 N0000175594	Nicotinic Acid	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175594
 N0000175595	Nucleoside Metabolic Inhibitor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175595
 N0000175596	Peroxisome Proliferator Receptor alpha Agonist	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175596
@@ -553,17 +454,12 @@ N0000175599	Phosphodiesterase 5 Inhibitor	FDA	FDA Established Pharmacologic Clas
 N0000175602	Progestin	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175602
 N0000175603	Prostacycline	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175603
 N0000175605	Kinase Inhibitor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175605
-N0000175606	Recombinant Human Growth Hormone	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175606
 N0000175607	Retinoid	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175607
 N0000175608	Sulfonylurea	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175608
 N0000175609	Topoisomerase Inhibitor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175609
-N0000175610	Tumor Necrosis Factor Blocker	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175610
 N0000175611	Urease Inhibitor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175611
 N0000175612	Vinca Alkaloid	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175612
 N0000175613	Antimetabolite Immunosuppressant	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175613
-N0000175616	Human Immunodeficiency Virus 1 Fusion Inhibitor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175616
-N0000175622	Interleukin-2 Receptor Blocking Antibody	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175622
-N0000175623	Respiratory Syncytial Virus Anti-F Protein Monoclonal Antibody	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175623
 N0000175625	mTOR Inhibitor Immunosuppressant	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175625
 N0000175630	Mast Cell Stabilizer	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175630
 N0000175634	Antifibrinolytic Agent	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175634
@@ -573,18 +469,6 @@ N0000175640	Catecholamine-depleting Sympatholytic	FDA	FDA Established Pharmacolo
 N0000175641	Autonomic Ganglionic Blocker	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175641
 N0000175655	Gonadotropin Releasing Hormone Receptor Agonist	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175655
 N0000175656	Hepatitis B Virus Nucleoside Analog Reverse Transcriptase Inhibitor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175656
-N0000175657	CD20-directed Cytolytic Antibody	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175657
-N0000175658	CD20-directed Radiotherapeutic Antibody	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175658
-N0000175659	CD52-directed Cytolytic Antibody	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175659
-N0000175661	HER2 Receptor Antagonist	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175661
-N0000175664	Epidermal Growth Factor Receptor Antagonist	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175664
-N0000175665	Erythropoiesis-stimulating Agent	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175665
-N0000175666	Leukocyte Growth Factor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175666
-N0000175667	Lymphocyte Growth Factor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175667
-N0000175668	Megakaryocyte Growth Factor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175668
-N0000175669	Asparagine-specific Enzyme	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175669
-N0000175670	Uric Acid-specific Enzyme	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175670
-N0000175671	Mucocutaneous Epithelial Cell Growth Factor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175671
 N0000175679	Aldehyde Dehydrogenase Inhibitor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175679
 N0000175680	Benzodiazepine Antagonist	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175680
 N0000175681	General Anesthetic	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175681
@@ -599,15 +483,12 @@ N0000175693	Barbiturate	FDA	FDA Established Pharmacologic Class	http://purl.bioo
 N0000175694	Benzodiazepine	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175694
 N0000175695	Norepinephrine Reuptake Inhibitor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175695
 N0000175696	Serotonin Reuptake Inhibitor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175696
-N0000175697	N-type Calcium Channel Antagonist	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175697
 N0000175698	Xanthine Oxidase Inhibitor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175698
 N0000175700	Cholinergic Muscarinic Antagonist	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175700
 N0000175705	Partial Cholinergic Nicotinic Agonist	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175705
 N0000175706	Cholinergic Nicotinic Agonist	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175706
-N0000175710	Interleukin-1 Receptor Antagonist	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175710
 N0000175712	Purine Antimetabolite	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175712
 N0000175713	Antirheumatic Agent	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175713
-N0000175714	Vitamin B Complex Member	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175714
 N0000175716	Respiratory Stimulant	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175716
 N0000175719	Depolarizing Neuromuscular Blocker	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175719
 N0000175720	Nondepolarizing Neuromuscular Blocker	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175720
@@ -637,9 +518,7 @@ N0000175767	Ergot-derived Dopamine Receptor Agonist	FDA	FDA Established Pharmaco
 N0000175768	Nonergot Dopamine Agonist	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175768
 N0000175769	Sympathomimetic-like Agent	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175769
 N0000175772	Acetylcholine Releasing Agent	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175772
-N0000175775	Integrin Receptor Antagonist	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175775
 N0000175777	Leukotriene Receptor Antagonist	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175777
-N0000175778	Surfactant	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175778
 N0000175779	beta2-Adrenergic Agonist	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175779
 N0000175780	Amino Acid	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175780
 N0000175781	Aminosalicylate	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175781
@@ -649,54 +528,33 @@ N0000175784	Histamine-2 Receptor Antagonist	FDA	FDA Established Pharmacologic Cl
 N0000175785	Prostaglandin E1 Analog	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175785
 N0000175786	Substance P/Neurokinin-1 Receptor Antagonist	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175786
 N0000175790	Methylxanthine	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175790
-N0000175794	Anti-IgE	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175794
 N0000175796	Non-narcotic Antitussive	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175796
-N0000175798	Cholecystokinin Analog	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175798
 N0000175800	Dopamine-2 Receptor Antagonist	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175800
 N0000175801	Aluminum Complex	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175801
 N0000175802	Bile Acid	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175802
-N0000175805	Methylating Agent	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175805
-N0000175807	Nitrogen Binding Agent	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175807
 N0000175809	Hydroxyphenyl-Pyruvate Dioxygenase Inhibitor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175809
 N0000175810	Osmotic Diuretic	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175810
 N0000175811	Osmotic Laxative	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175811
 N0000175812	Stimulant Laxative	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175812
-N0000175813	Secretin-class Hormone	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175813
 N0000175814	Sclerosing Agent	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175814
-N0000175815	Serotonin-4 Receptor Antagonist	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175815
 N0000175818	Serotonin-3 Receptor Antagonist	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175818
-N0000175819	Sucrose-specific Enzyme	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175819
-N0000175820	Hydrolytic Lysosomal Glucocerebroside-specific Enzyme	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175820
-N0000175821	Hydrolytic Lysosomal Glycogen-specific Enzyme	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175821
-N0000175822	Hydrolytic Lysosomal Neutral Glycosphingolipid-specific Enzyme	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175822
-N0000175823	Hydrolytic Lysosomal Glycosaminoglycan-specific Enzyme	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175823
 N0000175824	Androgen	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175824
 N0000175825	Estrogen	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175825
 N0000175826	Estrogen Agonist/Antagonist	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175826
 N0000175827	Ergot Derivative	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175827
 N0000175832	Progestin-containing Intrauterine Device	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175832
-N0000175835	Calculi Dissolution Agent	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175835
 N0000175836	5-alpha Reductase Inhibitor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175836
 N0000175837	Glycosaminoglycan	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175837
-N0000175838	Gonadotropin	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175838
 N0000175839	Gonadotropin Releasing Hormone Antagonist	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175839
 N0000175840	Cholinergic Muscarinic Agonist	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175840
 N0000175841	Progestin Antagonist	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175841
 N0000175842	alpha-Hydroxy Acid	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175842
-N0000175843	Collagen-specific Enzyme	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175843
-N0000175845	Decarboxylase Inhibitor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175845
 N0000175846	Porphyrin Precursor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175846
 N0000175847	Pyrethroid	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175847
 N0000175848	Tubulin Inhibiting Agent	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175848
 N0000175849	Vitamin D Analog	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175849
 N0000175853	Depigmenting Agent	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175853
-N0000175854	Melanin Synthesis Inhibitor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175854
-N0000175855	Skin Lightening Agent	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175855
-N0000175858	CD11a-directed Humanized IgG1 Antibody	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175858
-N0000175859	CD2-directed LFA-3/Fc Fusion Protein	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175859
 N0000175864	Contrast Agent for Ultrasound Imaging	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175864
-N0000175866	Inhalation Diagnostic Agent	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175866
-N0000175872	Radioactive Therapeutic Agent	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175872
 N0000175874	Allylamine Antifungal	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175874
 N0000175875	Benzylamine Antifungal	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175875
 N0000175877	Macrolide	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175877
@@ -706,19 +564,13 @@ N0000175881	Sulfone	FDA	FDA Established Pharmacologic Class	http://purl.bioontol
 N0000175882	Tetracycline-class Drug	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175882
 N0000175883	Adrenergic Receptor Agonist	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175883
 N0000175884	Cholinergic Receptor Agonist	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175884
-N0000175885	Human Platelet-derived Growth Factor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175885
-N0000175886	Helicobacter pylori Diagnostic	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175886
 N0000175887	Human Immunodeficiency Virus Integrase Strand Transfer Inhibitor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175887
 N0000175889	Protease Inhibitor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175889
 N0000175895	Blood Viscosity Reducer	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175895
-N0000175896	Metabolic Alkalinizer	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175896
-N0000175898	Reducing and Complexing Thiol	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175898
-N0000175900	Renin Inhibitor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175900
 N0000175902	Calcium-sensing Receptor Agonist	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175902
 N0000175903	Carnitine Analog	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175903
 N0000175904	Somatostatin Analog	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175904
 N0000175905	Vasopressin Analog	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175905
-N0000175907	Vitamin D2 Analog	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175907
 N0000175908	Vitamin D3 Analog	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175908
 N0000175909	Provitamin D2 Compound	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175909
 N0000175911	Dietary Cholesterol Absorption Inhibitor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175911
@@ -736,7 +588,6 @@ N0000175939	Cyclooxygenase Inhibitor	FDA	FDA Established Pharmacologic Class	htt
 N0000175940	Vasodilator	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175940
 N0000175945	l-Thyroxine	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175945
 N0000175946	l-Triiodothyronine	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175946
-N0000175949	Thyroid Stimulating Hormone	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175949
 N0000175951	Vitamin B12	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175951
 N0000175956	5-Lipoxygenase Inhibitor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175956
 N0000175961	Antidote for Acetaminophen Overdose	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175961
@@ -744,13 +595,7 @@ N0000175963	Lead Chelator	FDA	FDA Established Pharmacologic Class	http://purl.bi
 N0000175966	Warfarin Reversal Agent	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175966
 N0000175973	Thrombopoietin Receptor Agonist	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175973
 N0000175980	Anti-coagulant	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175980
-N0000175983	Heparin Reversal Agent	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175983
 N0000175984	Photoactivated Radical Generator	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000175984
-N0000177910	Amylin Analog	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000177910
-N0000177912	CD25-directed Cytotoxin	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000177912
-N0000177913	Parenteral Iron Replacement	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000177913
-N0000177914	Radioactive Diagnostic Agent	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000177914
-N0000178292	Vascular Endothelial Growth Factor-directed Antibody	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000178292
 N0000178326	Hematopoietic Stem Cell Mobilizer	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000178326
 N0000178368	Thrombopoiesis Stimulating Agent	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000178368
 N0000178369	Folate Analog	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000178369
@@ -758,8 +603,6 @@ N0000178372	Antiemetic	FDA	FDA Established Pharmacologic Class	http://purl.bioon
 N0000178374	Antidiarrheal	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000178374
 N0000178375	Adenosine Receptor Agonist	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000178375
 N0000178376	Vasopressin Antagonist	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000178376
-N0000178378	Potassium Binder	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000178378
-N0000178480	GLP-1 Receptor Agonist	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000178480
 N0000180182	Typical Antipsychotic	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000180182
 N0000180184	Paramagnetic Contrast Agent	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000180184
 N0000180185	Radiographic Contrast Agent	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000180185
@@ -770,7 +613,6 @@ N0000180189	Prostaglandin E1 Agonist	FDA	FDA Established Pharmacologic Class	htt
 N0000180190	Thiazolidinedione	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000180190
 N0000180292	Bile Acid Sequestrant	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000180292
 N0000180850	Actinomycin	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000180850
-N0000180852	Parathyroid Hormone Analog	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000180852
 N0000180853	Antimetabolite	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000180853
 N0000180854	Cytoprotective Agent	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000180854
 N0000180855	Aminoketone	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000180855
@@ -779,16 +621,11 @@ N0000181816	Sphingosine 1-phosphate Receptor Modulator	FDA	FDA Established Pharm
 N0000181821	Uncompetitive N-methyl-D-aspartate Receptor Antagonist	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000181821
 N0000182135	Cytochrome P450 2D6 Inhibitor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000182135
 N0000182142	P2Y12 Platelet Inhibitor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000182142
-N0000182144	Growth Hormone Releasing Factor Analog	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000182144
 N0000182149	Sigma-1 Agonist	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000182149
-N0000182159	Selective T Cell Costimulation Modulator	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000182159
-N0000182635	CTLA-4-directed Blocking Antibody	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000182635
-N0000182637	B Lymphocyte Stimulator-specific Inhibitor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000182637
 N0000182639	Hepatitis C Virus NS3/4A Protease Inhibitor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000182639
 N0000182729	Potassium Channel Opener	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000182729
 N0000182961	Phosphodiesterase 4 Inhibitor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000182961
 N0000182965	Bradykinin B2 Receptor Antagonist	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000182965
-N0000182967	CD30-directed Immunoconjugate	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000182967
 N0000183360	gamma-Aminobutyric Acid A Receptor Agonist	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000183360
 N0000183362	Gadolinium-based Contrast Agent	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000183362
 N0000184014	Thalidomide Analog	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000184014
@@ -797,59 +634,20 @@ N0000184144	Carbamoyl Phosphate Synthetase 1 Activator	FDA	FDA Established Pharm
 N0000184146	Cystic Fibrosis Transmembrane Conductance Regulator Potentiator	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000184146
 N0000184149	Hedgehog Pathway Inhibitor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000184149
 N0000185008	beta3-Adrenergic Agonist	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000185008
-N0000185010	Serotonin-2c Receptor Agonist	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000185010
-N0000185370	Non-Standardized Chemical Allergen	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000185370
 N0000185500	Guanylate Cyclase-C Agonist	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000185500
-N0000185502	Pyrimidine Synthesis Inhibitor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000185502
 N0000185508	Standardized Chemical Allergen	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000185508
 N0000186105	alpha-1 Adrenergic Agonist	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000186105
-N0000186106	Noncompetitive AMPA Glutamate Receptor Antagonist	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000186106
 N0000186775	Diarylquinoline Antimycobacterial	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000186775
 N0000186779	Microsomal Triglyceride Transfer Protein Inhibitor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000186779
 N0000187051	Cystine Depleting Agent	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000187051
-N0000187055	RANK Ligand Inhibitor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000187055
 N0000187059	Sodium-Glucose Cotransporter 2 Inhibitor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000187059
-N0000190119	Growth Hormone Receptor Antagonist	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000190119
-N0000190480	Interleukin-6 Receptor Antagonist	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000190480
 N0000190483	Phenylalanine Hydroxylase Activator	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000190483
-N0000190485	Soluble Guanylate Cyclase Stimulator	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000190485
-N0000190851	Antileishmanial	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000190851
-N0000190852	Antihypoglycemic Agent	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000190852
-N0000190853	Gastrointestinal Motility Inhibitor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000190853
-N0000190854	Leptin Analog	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000190854
 N0000190856	Vesicular Monoamine Transporter 2 Inhibitor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000190856
-N0000190858	Janus Kinase Inhibitor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000190858
-N0000190992	GLP-2 Analog	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000190992
-N0000190996	Protease-activated Receptor-1 Antagonist	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000190996
-N0000191000	Orexin Receptor Antagonist	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000191000
 N0000191001	Cytochrome P450 3A Inhibitor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000191001
-N0000191006	Interleukin-6 Antagonist	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000191006
-N0000191009	Vascular Endothelial Growth Factor Receptor 2 Antagonist	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000191009
-N0000191256	Hepatitis C Virus NS5A Inhibitor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000191256
-N0000191257	Hepatitis C Virus Non-Nucleoside NS5B Palm Polymerase Inhibitor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000191257
-N0000191260	Programmed Death Receptor-1 Blocking Antibody	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000191260
-N0000191263	Progesterone Agonist/Antagonist	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000191263
-N0000191279	Oxaborole Antifungal	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000191279
 N0000191281	Lipoglycopeptide Antibacterial	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000191281
-N0000191420	Pyridone	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000191420
-N0000191421	Bispecific CD19-directed CD3-directed T Cell Engager	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000191421
 N0000191493	Hepatitis C Virus Nucleotide Analog NS5B Polymerase Inhibitor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000191493
-N0000191495	Interleukin-17A Antagonist	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000191495
-N0000191500	Glycolipid Disialoganglioside-directed Antibody	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000191500
-N0000191544	Hyperpolarization-activated Cyclic Nucleotide-gated Channel Blocker	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000191544
-N0000191548	Cytolytic Agent	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000191548
-N0000191621	Proteolytic Enzyme	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000191621
-N0000191623	Poly(ADP-Ribose) Polymerase Inhibitor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000191623
-N0000191626	Antisense Oligonucleotide	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000191626
-N0000191627	Apolipoprotein B-100 Synthesis Inhibitor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000191627
-N0000191731	PCSK9 Inhibitor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000191731
-N0000191865	Tissue-nonspecific Alkaline Phosphatase	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000191865
-N0000191870	Thymidine Phosphorylase Inhibitor	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000191870
-N0000191872	Interleukin-5 Antagonist	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000191872
-N0000191873	Humanized Monoclonal Antibody Fragment	FDA	FDA Established Pharmacologic Class	http://purl.bioontology.org/ontology/NDFRT/N0000191873
 N0000000069	Calcium Channel Antagonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000000069
 N0000000070	Angiotensin 2 Receptor Antagonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000000070
-N0000000079	Surfactant Activity	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000000079
 N0000000083	Leukotriene Receptor Antagonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000000083
 N0000000100	Estrogen Receptor Agonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000000100
 N0000000102	Norepinephrine Uptake Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000000102
@@ -862,7 +660,6 @@ N0000000115	Progestational Hormone Receptor Antagonists	FDA	Mechanism of Action	
 N0000000116	GABA B Agonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000000116
 N0000000122	Adrenergic Agonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000000122
 N0000000125	Cholinergic Muscarinic Antagonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000000125
-N0000000127	HIV Integrase Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000000127
 N0000000144	Iron Chelating Activity	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000000144
 N0000000146	Androgen Receptor Agonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000000146
 N0000000150	Protein Synthesis Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000000150
@@ -879,7 +676,6 @@ N0000000191	Dihydrofolate Reductase Inhibitors	FDA	Mechanism of Action	http://pu
 N0000000194	Somatostatin Receptor Agonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000000194
 N0000000196	GABA A Agonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000000196
 N0000000202	beta Lactamase Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000000202
-N0000000205	Radiopharmaceutical Activity	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000000205
 N0000000206	Xanthine Oxidase Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000000206
 N0000000207	Histamine Receptor Antagonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000000207
 N0000000209	Adrenergic alpha-Agonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000000209
@@ -900,45 +696,28 @@ N0000009945	Antidiuretic Hormone Antagonists	FDA	Mechanism of Action	http://purl
 N0000009947	Nucleoside Reverse Transcriptase Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000009947
 N0000009948	Non-Nucleoside Reverse Transcriptase Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000009948
 N0000009963	Thrombin Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000009963
-N0000009986	Alkalinizing Activity	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000009986
 N0000010217	Photoabsorption	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000010217
 N0000010258	X-Ray Contrast Activity	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000010258
 N0000010259	Ultrasound Contrast Activity	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000010259
 N0000010262	Neurokinin 1 Antagonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000010262
-N0000010267	Growth Hormone Receptor Antagonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000010267
-N0000010279	Interleukin 2 Receptor Antagonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000010279
 N0000010288	Osmotic Activity	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000010288
 N0000011310	Aldosterone Antagonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000011310
 N0000020000	Receptor Tyrosine Kinase Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000020000
-N0000020007	Vascular Endothelial Growth Factor Receptor Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000020007
-N0000020008	HER2/Neu/cerbB2 Antagonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000020008
-N0000020010	HER1 Antagonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000020010
 N0000020015	NMDA Receptor Antagonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000020015
-N0000020016	AMPA Receptor Antagonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000020016
 N0000020019	Glucosylceramide Synthase Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000020019
 N0000020024	Sclerosing Activity	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000020024
 N0000020026	Phosphodiesterase 5 Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000020026
-N0000020032	VEGFR2 Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000020032
-N0000020058	Glucagon-like Peptide-1 (GLP-1) Agonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000020058
 N0000020060	DNA Polymerase Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000020060
-N0000020064	Amylin Agonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000020064
-N0000020069	N-Calcium Channel Receptor Antagonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000020069
 N0000020074	Phosphate Chelating Activity	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000020074
 N0000020081	Increased Calcium-sensing Receptor Sensitivity	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000020081
-N0000175071	Histone Deacetylase Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175071
 N0000175075	Proteasome Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175075
 N0000175076	Protein Kinase Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175076
-N0000175078	CD20-directed Antibody Interactions	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175078
-N0000175079	CD52-directed Antibody Interactions	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175079
 N0000175080	Aromatase Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175080
-N0000175082	Kinase Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175082
 N0000175084	Gonadotropin Releasing Hormone Receptor Antagonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175084
 N0000175086	Phosphodiesterase 3 Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175086
 N0000175087	Urease Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175087
 N0000175089	Calcium Chelating Activity	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175089
-N0000175357	Potassium Ion Exchange Activity	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175357
 N0000175361	Catecholamine Synthesis Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175361
-N0000175364	Endothelin Receptor Antagonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175364
 N0000175365	Bile-acid Binding Activity	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175365
 N0000175370	Cholinergic Antagonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175370
 N0000175374	Peroxisome Proliferator-activated Receptor Activity	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175374
@@ -947,7 +726,6 @@ N0000175436	Neuraminidase Inhibitors	FDA	Mechanism of Action	http://purl.bioonto
 N0000175445	Chemokine Co-receptor 5 Antagonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175445
 N0000175448	Potassium Channel Antagonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175448
 N0000175450	Corticosteroid Hormone Receptor Agonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175450
-N0000175451	Tumor Necrosis Factor Receptor Blocking Activity	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175451
 N0000175456	Chloride Channel Activators	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175456
 N0000175472	Metal Chelating Activity	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175472
 N0000175513	Dipeptidase Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175513
@@ -956,10 +734,6 @@ N0000175533	Dyes	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/ND
 N0000175542	M2 Protein Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175542
 N0000175547	Reduction Activity	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175547
 N0000175549	Cystine Disulfide Reduction	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175549
-N0000175615	Fusion Protein Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175615
-N0000175617	CD3-directed Antibody Interactions	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175617
-N0000175618	CD3 Receptor Agonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175618
-N0000175621	Interleukin 2 Receptor-directed Antibody Interactions	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175621
 N0000175624	mTOR Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175624
 N0000175635	Factor Xa Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175635
 N0000175654	Gonadotropin Releasing Hormone Receptor Agonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175654
@@ -967,28 +741,17 @@ N0000175684	Full Opioid Agonists	FDA	Mechanism of Action	http://purl.bioontology
 N0000175685	Partial Opioid Agonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175685
 N0000175686	Competitive Opioid Antagonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175686
 N0000175702	Partial Cholinergic Nicotinic Agonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175702
-N0000175709	Interleukin 1 Receptor Antagonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175709
 N0000175755	DOPA Decarboxylase Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175755
 N0000175761	Monoamine Oxidase-B Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175761
 N0000175763	Serotonin 1b Receptor Agonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175763
 N0000175764	Serotonin 1d Receptor Agonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175764
-N0000175774	Integrin Receptor Antagonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175774
 N0000175788	Adenosine Receptor Agonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175788
-N0000175792	IgE-directed Antibody Interactions	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175792
 N0000175799	Dopamine D2 Antagonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175799
-N0000175804	Methylating Activity	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175804
-N0000175806	Ammonium Ion Binding Activity	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175806
 N0000175808	Hydroxyphenylpyruvate Dioxygenase Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175808
-N0000175816	Serotonin 4 Receptor Antagonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175816
 N0000175817	Serotonin 3 Receptor Antagonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175817
 N0000175833	Acidifying Activity	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175833
-N0000175844	Decarboxylase Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175844
 N0000175850	Melanin Synthesis Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175850
-N0000175856	CD11a-directed Antibody Interactions	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175856
-N0000175857	CD2-directed Antibody Interactions	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175857
 N0000175862	Magnetic Resonance Contrast Activity	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175862
-N0000175869	Positron Emitting Activity	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175869
-N0000175899	Renin Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175899
 N0000175912	Dipeptidyl Peptidase 4 Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175912
 N0000175917	Thyroid Hormone Synthesis Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175917
 N0000175921	Adrenal Steroid Synthesis Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175921
@@ -997,10 +760,6 @@ N0000175962	Lead Chelating Activity	FDA	Mechanism of Action	http://purl.bioontol
 N0000175964	Vitamin K Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175964
 N0000175967	Thrombopoietin Receptor Interactions	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175967
 N0000175968	Thrombopoietin Receptor Agonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175968
-N0000175974	Complement Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175974
-N0000175981	Heparin Binding Activity	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000175981
-N0000178291	Vascular Endothelial Growth Factor-directed Antibody Interactions	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000178291
-N0000178377	Potassium Ion Binding Activity	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000178377
 N0000180999	Angiotensin 2 Type 1 Receptor Antagonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000180999
 N0000181815	Sphingosine 1-Phosphate Receptor Modulators	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000181815
 N0000181819	Uncompetitive NMDA Receptor Antagonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000181819
@@ -1011,26 +770,20 @@ N0000182140	Cytochrome P450 2C19 Inhibitors	FDA	Mechanism of Action	http://purl.
 N0000182141	Cytochrome P450 3A4 Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000182141
 N0000182143	P2Y12 Receptor Antagonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000182143
 N0000182147	Sigma-1 Receptor Agonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000182147
-N0000182634	CTLA-4-directed Antibody Interactions	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000182634
-N0000182636	B Lymphocyte Stimulator-directed Antibody Interactions	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000182636
 N0000182638	HCV NS3/4A Protease Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000182638
 N0000182728	Potassium Channel Openers	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000182728
 N0000182960	Phosphodiesterase 4 Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000182960
-N0000182966	CD30-directed Antibody Interactions	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000182966
 N0000184143	Carbamoyl Phosphate Synthetase 1 Activators	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000184143
 N0000184145	Chloride Channel Activation Potentiators	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000184145
 N0000184148	Smoothened Receptor Antagonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000184148
 N0000185007	Adrenergic beta3-Agonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000185007
-N0000185009	Serotonin 2c Receptor Agonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000185009
 N0000185499	Guanylate Cyclase Activators	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000185499
-N0000185501	Dihydroorotate Dehydrogenase Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000185501
 N0000185503	P-Glycoprotein Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000185503
 N0000185504	Cytochrome P450 2C9 Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000185504
 N0000185506	Cytochrome P450 3A4 Inducers	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000185506
 N0000185507	Cytochrome P450 2C9 Inducers	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000185507
 N0000185607	Cytochrome P450 2C19 Inducers	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000185607
 N0000186778	Microsomal Triglyceride Transfer Protein Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000186778
-N0000187054	RANK Ligand Blocking Activity	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000187054
 N0000187058	Sodium-Glucose Transporter 2 Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000187058
 N0000187061	Organic Cation Transporter 2 Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000187061
 N0000187062	Cytochrome P450 2C8 Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000187062
@@ -1045,17 +798,9 @@ N0000190113	Breast Cancer Resistance Protein Inhibitors	FDA	Mechanism of Action	
 N0000190114	Cytochrome P450 3A Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000190114
 N0000190115	Cytochrome P450 3A5 Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000190115
 N0000190118	Cytochrome P450 3A Inducers	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000190118
-N0000190478	Interleukin 6 Receptor Antagonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000190478
 N0000190482	Phenylalanine Hydroxylase Activators	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000190482
-N0000190484	Guanylate Cyclase Stimulators	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000190484
 N0000190855	Vesicular Monoamine Transporter 2 Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000190855
-N0000190857	Janus Kinase Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000190857
-N0000190990	Glucagon-like Peptide-2 (GLP-2) Agonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000190990
-N0000190995	Protease-activated Receptor-1 Antagonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000190995
-N0000191004	Interleukin-6 Antagonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000191004
 N0000191258	RNA Replicase Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000191258
-N0000191259	Programmed Death Receptor-1-directed Antibody Interactions	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000191259
-N0000191262	Selective Progesterone Receptor Modulators	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000191262
 N0000191264	P-Glycoprotein Inducers	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000191264
 N0000191265	Organic Cation Transporter 1 Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000191265
 N0000191266	Cytochrome P450 1A2 Inducers	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000191266
@@ -1068,22 +813,12 @@ N0000191275	UGT1A3 Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.or
 N0000191276	UGT1A4 Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000191276
 N0000191277	UGT1A6 Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000191277
 N0000191278	UGT1A9 Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000191278
-N0000191422	CD19-directed Antibody Interactions	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000191422
 N0000191423	Multidrug and Toxin Extrusion Transporter 1 Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000191423
-N0000191494	Interleukin-17A Antagonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000191494
-N0000191499	Glycolipid Disialoganglioside-directed Antibody Interactions	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000191499
-N0000191546	Hyperpolarization-activated Cyclic Nucleotide-gated Channel Antagonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000191546
 N0000191624	Cytochrome P450 1A Inducers	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000191624
-N0000191730	PCSK9 Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000191730
-N0000191866	Opioid mu-Receptor Agonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000191866
-N0000191869	Thymidine Phosphorylase Inhibitors	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000191869
-N0000191871	Interleukin-5 Antagonists	FDA	Mechanism of Action	http://purl.bioontology.org/ontology/NDFRT/N0000191871
 D000020	Abortifacient Agents, Nonsteroidal	MeSH	Pharmacological Action	http://identifiers.org/mesh/D000020
 D000021	Abortifacient Agents, Steroidal	MeSH	Pharmacological Action	http://identifiers.org/mesh/D000021
-D000067856	Poly(ADP-ribose) Polymerase Inhibitors	MeSH	Pharmacological Action	http://identifiers.org/mesh/D000067856
 D000068760	Serotonin and Noradrenaline Reuptake Inhibitors	MeSH	Pharmacological Action	http://identifiers.org/mesh/D000068760
 D000068776	Sleep Aids, Pharmaceutical	MeSH	Pharmacological Action	http://identifiers.org/mesh/D000068776
-D000068796	Orexin Receptor Antagonists	MeSH	Pharmacological Action	http://identifiers.org/mesh/D000068796
 D000276	Adjuvants, Immunologic	MeSH	Pharmacological Action	http://identifiers.org/mesh/D000276
 D000277	Adjuvants, Pharmaceutic	MeSH	Pharmacological Action	http://identifiers.org/mesh/D000277
 D000316	Adrenergic alpha-Agonists	MeSH	Pharmacological Action	http://identifiers.org/mesh/D000316
@@ -1091,7 +826,6 @@ D000317	Adrenergic alpha-Antagonists	MeSH	Pharmacological Action	http://identifi
 D000318	Adrenergic beta-Agonists	MeSH	Pharmacological Action	http://identifiers.org/mesh/D000318
 D000319	Adrenergic beta-Antagonists	MeSH	Pharmacological Action	http://identifiers.org/mesh/D000319
 D000322	Adrenergic Agonists	MeSH	Pharmacological Action	http://identifiers.org/mesh/D000322
-D000345	Affinity Labels	MeSH	Pharmacological Action	http://identifiers.org/mesh/D000345
 D000427	Alcohol Deterrents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D000427
 D000451	Mineralocorticoid Receptor Antagonists	MeSH	Pharmacological Action	http://identifiers.org/mesh/D000451
 D000477	Alkylating Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D000477
@@ -1129,7 +863,6 @@ D000930	Antidiarrheals	MeSH	Pharmacological Action	http://identifiers.org/mesh/D
 D000931	Antidotes	MeSH	Pharmacological Action	http://identifiers.org/mesh/D000931
 D000932	Antiemetics	MeSH	Pharmacological Action	http://identifiers.org/mesh/D000932
 D000933	Antifibrinolytic Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D000933
-D000934	Antifoaming Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D000934
 D000935	Antifungal Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D000935
 D000959	Antihypertensive Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D000959
 D000960	Hypolipidemic Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D000960
@@ -1146,27 +879,20 @@ D000980	Antiplatyhelmintic Agents	MeSH	Pharmacological Action	http://identifiers
 D000981	Antiprotozoal Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D000981
 D000982	Antipruritics	MeSH	Pharmacological Action	http://identifiers.org/mesh/D000982
 D000986	Antisickling Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D000986
-D000988	Antispermatogenic Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D000988
 D000991	Antithrombins	MeSH	Pharmacological Action	http://identifiers.org/mesh/D000991
 D000994	Antitrichomonal Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D000994
 D000995	Antitubercular Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D000995
 D000996	Antitussive Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D000996
 D000998	Antiviral Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D000998
 D001067	Appetite Depressants	MeSH	Pharmacological Action	http://identifiers.org/mesh/D001067
-D001252	Astringents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D001252
-D001672	Biocompatible Materials	MeSH	Pharmacological Action	http://identifiers.org/mesh/D001672
-D001802	Blood Substitutes	MeSH	Pharmacological Action	http://identifiers.org/mesh/D001802
 D001993	Bronchodilator Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D001993
-D002021	Buffers	MeSH	Pharmacological Action	http://identifiers.org/mesh/D002021
 D002120	Calcium Channel Agonists	MeSH	Pharmacological Action	http://identifiers.org/mesh/D002120
 D002121	Calcium Channel Blockers	MeSH	Pharmacological Action	http://identifiers.org/mesh/D002121
 D002257	Carbonic Anhydrase Inhibitors	MeSH	Pharmacological Action	http://identifiers.org/mesh/D002257
 D002273	Carcinogens	MeSH	Pharmacological Action	http://identifiers.org/mesh/D002273
 D002316	Cardiotonic Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D002316
 D002317	Cardiovascular Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D002317
-D002327	Cariostatic Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D002327
 D002400	Cathartics	MeSH	Pharmacological Action	http://identifiers.org/mesh/D002400
-D002424	Caustics	MeSH	Pharmacological Action	http://identifiers.org/mesh/D002424
 D002491	Central Nervous System Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D002491
 D002492	Central Nervous System Depressants	MeSH	Pharmacological Action	http://identifiers.org/mesh/D002492
 D002614	Chelating Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D002614
@@ -1185,14 +911,11 @@ D003280	Contraceptives, Oral, Synthetic	MeSH	Pharmacological Action	http://ident
 D003281	Contraceptives, Postcoital	MeSH	Pharmacological Action	http://identifiers.org/mesh/D003281
 D003283	Contraceptives, Postcoital, Synthetic	MeSH	Pharmacological Action	http://identifiers.org/mesh/D003283
 D003287	Contrast Media	MeSH	Pharmacological Action	http://identifiers.org/mesh/D003287
-D003292	Convulsants	MeSH	Pharmacological Action	http://identifiers.org/mesh/D003292
 D003358	Cosmetics	MeSH	Pharmacological Action	http://identifiers.org/mesh/D003358
 D003432	Cross-Linking Reagents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D003432
 D003451	Cryoprotective Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D003451
 D003473	Neuromuscular Nondepolarizing Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D003473
-D003603	Cytotoxins	MeSH	Pharmacological Action	http://identifiers.org/mesh/D003603
 D003692	Delayed-Action Preparations	MeSH	Pharmacological Action	http://identifiers.org/mesh/D003692
-D003764	Dental Materials	MeSH	Pharmacological Action	http://identifiers.org/mesh/D003764
 D003879	Dermatologic Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D003879
 D003902	Detergents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D003902
 D004202	Disinfectants	MeSH	Pharmacological Action	http://identifiers.org/mesh/D004202
@@ -1200,25 +923,18 @@ D004232	Diuretics	MeSH	Pharmacological Action	http://identifiers.org/mesh/D00423
 D004234	Diuretics, Osmotic	MeSH	Pharmacological Action	http://identifiers.org/mesh/D004234
 D004396	Coloring Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D004396
 D004639	Emetics	MeSH	Pharmacological Action	http://identifiers.org/mesh/D004639
-D004643	Emollients	MeSH	Pharmacological Action	http://identifiers.org/mesh/D004643
-D004785	Environmental Pollutants	MeSH	Pharmacological Action	http://identifiers.org/mesh/D004785
 D004791	Enzyme Inhibitors	MeSH	Pharmacological Action	http://identifiers.org/mesh/D004791
 D004965	Estrogen Antagonists	MeSH	Pharmacological Action	http://identifiers.org/mesh/D004965
 D004967	Estrogens	MeSH	Pharmacological Action	http://identifiers.org/mesh/D004967
 D004968	Estrogens, Non-Steroidal	MeSH	Pharmacological Action	http://identifiers.org/mesh/D004968
-D005079	Excipients	MeSH	Pharmacological Action	http://identifiers.org/mesh/D005079
 D005100	Expectorants	MeSH	Pharmacological Action	http://identifiers.org/mesh/D005100
 D005300	Fertility Agents, Female	MeSH	Pharmacological Action	http://identifiers.org/mesh/D005300
 D005343	Fibrinolytic Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D005343
 D005369	Filaricides	MeSH	Pharmacological Action	http://identifiers.org/mesh/D005369
-D005404	Fixatives	MeSH	Pharmacological Action	http://identifiers.org/mesh/D005404
 D005421	Flavoring Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D005421
 D005456	Fluorescent Dyes	MeSH	Pharmacological Action	http://identifiers.org/mesh/D005456
 D005493	Folic Acid Antagonists	MeSH	Pharmacological Action	http://identifiers.org/mesh/D005493
 D005503	Food Additives	MeSH	Pharmacological Action	http://identifiers.org/mesh/D005503
-D005505	Food Coloring Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D005505
-D005520	Food Preservatives	MeSH	Pharmacological Action	http://identifiers.org/mesh/D005520
-D005659	Fungicides, Industrial	MeSH	Pharmacological Action	http://identifiers.org/mesh/D005659
 D005730	Ganglionic Blockers	MeSH	Pharmacological Action	http://identifiers.org/mesh/D005730
 D005731	Ganglionic Stimulants	MeSH	Pharmacological Action	http://identifiers.org/mesh/D005731
 D005765	Gastrointestinal Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D005765
@@ -1230,8 +946,6 @@ D006213	Hallucinogens	MeSH	Pharmacological Action	http://identifiers.org/mesh/D0
 D006397	Hematinics	MeSH	Pharmacological Action	http://identifiers.org/mesh/D006397
 D006401	Hematologic Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D006401
 D006490	Hemostatics	MeSH	Pharmacological Action	http://identifiers.org/mesh/D006490
-D006494	Heparin Antagonists	MeSH	Pharmacological Action	http://identifiers.org/mesh/D006494
-D006540	Herbicides	MeSH	Pharmacological Action	http://identifiers.org/mesh/D006540
 D006633	Histamine Antagonists	MeSH	Pharmacological Action	http://identifiers.org/mesh/D006633
 D006634	Histamine H1 Antagonists	MeSH	Pharmacological Action	http://identifiers.org/mesh/D006634
 D006635	Histamine H2 Antagonists	MeSH	Pharmacological Action	http://identifiers.org/mesh/D006635
@@ -1242,7 +956,6 @@ D007004	Hypoglycemic Agents	MeSH	Pharmacological Action	http://identifiers.org/m
 D007155	Immunologic Factors	MeSH	Pharmacological Action	http://identifiers.org/mesh/D007155
 D007166	Immunosuppressive Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D007166
 D007202	Indicators and Reagents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D007202
-D007302	Insect Repellents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D007302
 D007306	Insecticides	MeSH	Pharmacological Action	http://identifiers.org/mesh/D007306
 D007364	Intercalating Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D007364
 D007369	Interferon Inducers	MeSH	Pharmacological Action	http://identifiers.org/mesh/D007369
@@ -1254,7 +967,6 @@ D007917	Leprostatic Agents	MeSH	Pharmacological Action	http://identifiers.org/me
 D008082	Lipotropic Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D008082
 D008186	Luteolytic Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D008186
 D008600	Menstruation-Inducing Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D008600
-D008901	Mineralocorticoids	MeSH	Pharmacological Action	http://identifiers.org/mesh/D008901
 D008916	Miotics	MeSH	Pharmacological Action	http://identifiers.org/mesh/D008916
 D008975	Molluscacides	MeSH	Pharmacological Action	http://identifiers.org/mesh/D008975
 D008996	Monoamine Oxidase Inhibitors	MeSH	Pharmacological Action	http://identifiers.org/mesh/D008996
@@ -1268,26 +980,18 @@ D009465	Neuromuscular Agents	MeSH	Pharmacological Action	http://identifiers.org/
 D009466	Neuromuscular Blocking Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D009466
 D009467	Neuromuscular Depolarizing Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D009467
 D009676	Noxae	MeSH	Pharmacological Action	http://identifiers.org/mesh/D009676
-D009883	Ophthalmic Solutions	MeSH	Pharmacological Action	http://identifiers.org/mesh/D009883
 D010120	Oxytocics	MeSH	Pharmacological Action	http://identifiers.org/mesh/D010120
 D010276	Parasympatholytics	MeSH	Pharmacological Action	http://identifiers.org/mesh/D010276
 D010277	Parasympathomimetics	MeSH	Pharmacological Action	http://identifiers.org/mesh/D010277
-D010574	Pesticide Synergists	MeSH	Pharmacological Action	http://identifiers.org/mesh/D010574
 D010575	Pesticides	MeSH	Pharmacological Action	http://identifiers.org/mesh/D010575
 D010592	Pharmaceutic Aids	MeSH	Pharmacological Action	http://identifiers.org/mesh/D010592
 D010726	Phosphodiesterase Inhibitors	MeSH	Pharmacological Action	http://identifiers.org/mesh/D010726
-D010937	Plant Growth Regulators	MeSH	Pharmacological Action	http://identifiers.org/mesh/D010937
-D010952	Plasma Substitutes	MeSH	Pharmacological Action	http://identifiers.org/mesh/D010952
-D010968	Plasticizers	MeSH	Pharmacological Action	http://identifiers.org/mesh/D010968
 D010975	Platelet Aggregation Inhibitors	MeSH	Pharmacological Action	http://identifiers.org/mesh/D010975
 D011042	Poisons	MeSH	Pharmacological Action	http://identifiers.org/mesh/D011042
-D011310	Preservatives, Pharmaceutical	MeSH	Pharmacological Action	http://identifiers.org/mesh/D011310
 D011372	Progestins	MeSH	Pharmacological Action	http://identifiers.org/mesh/D011372
-D011448	Prostaglandin Antagonists	MeSH	Pharmacological Action	http://identifiers.org/mesh/D011448
 D011480	Protease Inhibitors	MeSH	Pharmacological Action	http://identifiers.org/mesh/D011480
 D011500	Protein Synthesis Inhibitors	MeSH	Pharmacological Action	http://identifiers.org/mesh/D011500
 D011619	Psychotropic Drugs	MeSH	Pharmacological Action	http://identifiers.org/mesh/D011619
-D011663	Pulmonary Surfactants	MeSH	Pharmacological Action	http://identifiers.org/mesh/D011663
 D011837	Radiation-Protective Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D011837
 D011838	Radiation-Sensitizing Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D011838
 D012102	Reproductive Control Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D012102
@@ -1309,28 +1013,21 @@ D014150	Antipsychotic Agents	MeSH	Pharmacological Action	http://identifiers.org/
 D014151	Anti-Anxiety Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D014151
 D014179	Neurotransmitter Uptake Inhibitors	MeSH	Pharmacological Action	http://identifiers.org/mesh/D014179
 D014344	Trypanocidal Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D014344
-D014361	Trypsin Inhibitors	MeSH	Pharmacological Action	http://identifiers.org/mesh/D014361
 D014475	Uncoupling Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D014475
 D014528	Uricosuric Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D014528
 D014662	Vasoconstrictor Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D014662
 D014663	Nasal Decongestants	MeSH	Pharmacological Action	http://identifiers.org/mesh/D014663
 D014665	Vasodilator Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D014665
-D014677	Pharmaceutical Vehicles	MeSH	Pharmacological Action	http://identifiers.org/mesh/D014677
 D014803	Vitamin B Complex	MeSH	Pharmacological Action	http://identifiers.org/mesh/D014803
 D014815	Vitamins	MeSH	Pharmacological Action	http://identifiers.org/mesh/D014815
-D014874	Water Pollutants, Chemical	MeSH	Pharmacological Action	http://identifiers.org/mesh/D014874
 D015149	Tocolytic Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D015149
 D015259	Dopamine Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D015259
-D015314	Dialysis Solutions	MeSH	Pharmacological Action	http://identifiers.org/mesh/D015314
-D015335	Molecular Probes	MeSH	Pharmacological Action	http://identifiers.org/mesh/D015335
 D015842	Serine Proteinase Inhibitors	MeSH	Pharmacological Action	http://identifiers.org/mesh/D015842
 D016085	Bronchoconstrictor Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D016085
 D016166	Free Radical Scavengers	MeSH	Pharmacological Action	http://identifiers.org/mesh/D016166
-D016376	Oligonucleotides, Antisense	MeSH	Pharmacological Action	http://identifiers.org/mesh/D016376
 D016588	Anticarcinogenic Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D016588
 D016859	Lipoxygenase Inhibitors	MeSH	Pharmacological Action	http://identifiers.org/mesh/D016859
 D016861	Cyclooxygenase Inhibitors	MeSH	Pharmacological Action	http://identifiers.org/mesh/D016861
-D016877	Oxidants	MeSH	Pharmacological Action	http://identifiers.org/mesh/D016877
 D017262	Siderophores	MeSH	Pharmacological Action	http://identifiers.org/mesh/D017262
 D017319	Photosensitizing Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D017319
 D017320	HIV Protease Inhibitors	MeSH	Pharmacological Action	http://identifiers.org/mesh/D017320
@@ -1354,7 +1051,6 @@ D018685	Anesthetics, Inhalation	MeSH	Pharmacological Action	http://identifiers.o
 D018686	Anesthetics, Intravenous	MeSH	Pharmacological Action	http://identifiers.org/mesh/D018686
 D018687	Antidepressive Agents, Second-Generation	MeSH	Pharmacological Action	http://identifiers.org/mesh/D018687
 D018689	Sensory System Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D018689
-D018690	Excitatory Amino Acid Agonists	MeSH	Pharmacological Action	http://identifiers.org/mesh/D018690
 D018691	Excitatory Amino Acid Antagonists	MeSH	Pharmacological Action	http://identifiers.org/mesh/D018691
 D018692	Antimanic Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D018692
 D018696	Neuroprotective Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D018696
@@ -1379,7 +1075,6 @@ D018977	Micronutrients	MeSH	Pharmacological Action	http://identifiers.org/mesh/D
 D019141	Respiratory System Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D019141
 D019161	Hydroxymethylglutaryl-CoA Reductase Inhibitors	MeSH	Pharmacological Action	http://identifiers.org/mesh/D019161
 D019167	Appetite Stimulants	MeSH	Pharmacological Action	http://identifiers.org/mesh/D019167
-D019275	Radiopharmaceuticals	MeSH	Pharmacological Action	http://identifiers.org/mesh/D019275
 D019380	Anti-HIV Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D019380
 D019384	Nucleic Acid Synthesis Inhibitors	MeSH	Pharmacological Action	http://identifiers.org/mesh/D019384
 D019428	HIV Integrase Inhibitors	MeSH	Pharmacological Action	http://identifiers.org/mesh/D019428
@@ -1387,13 +1082,10 @@ D019440	Anti-Obesity Agents	MeSH	Pharmacological Action	http://identifiers.org/m
 D019653	Myeloablative Agonists	MeSH	Pharmacological Action	http://identifiers.org/mesh/D019653
 D020011	Protective Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D020011
 D020024	Leukotriene Antagonists	MeSH	Pharmacological Action	http://identifiers.org/mesh/D020024
-D020025	Peroxisome Proliferators	MeSH	Pharmacological Action	http://identifiers.org/mesh/D020025
 D020030	Nitric Oxide Donors	MeSH	Pharmacological Action	http://identifiers.org/mesh/D020030
-D020319	Oligodeoxyribonucleotides, Antisense	MeSH	Pharmacological Action	http://identifiers.org/mesh/D020319
 D020533	Angiogenesis Inhibitors	MeSH	Pharmacological Action	http://identifiers.org/mesh/D020533
 D020845	Selective Estrogen Receptor Modulators	MeSH	Pharmacological Action	http://identifiers.org/mesh/D020845
 D020847	Estrogen Receptor Modulators	MeSH	Pharmacological Action	http://identifiers.org/mesh/D020847
-D023581	HIV Fusion Inhibitors	MeSH	Pharmacological Action	http://identifiers.org/mesh/D023581
 D026902	Potassium Channel Blockers	MeSH	Pharmacological Action	http://identifiers.org/mesh/D026902
 D026941	Sodium Channel Blockers	MeSH	Pharmacological Action	http://identifiers.org/mesh/D026941
 D039563	Histamine H1 Antagonists, Non-Sedating	MeSH	Pharmacological Action	http://identifiers.org/mesh/D039563
@@ -1407,7 +1099,6 @@ D049408	Luminescent Agents	MeSH	Pharmacological Action	http://identifiers.org/me
 D049990	Membrane Transport Modulators	MeSH	Pharmacological Action	http://identifiers.org/mesh/D049990
 D049993	Sodium Chloride Symporter Inhibitors	MeSH	Pharmacological Action	http://identifiers.org/mesh/D049993
 D049994	Sodium Potassium Chloride Symporter Inhibitors	MeSH	Pharmacological Action	http://identifiers.org/mesh/D049994
-D050034	Antidiuretic Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D050034
 D050071	Bone Density Conservation Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D050071
 D050256	Antimitotic Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D050256
 D050257	Tubulin Modulators	MeSH	Pharmacological Action	http://identifiers.org/mesh/D050257
@@ -1419,13 +1110,10 @@ D054368	Laxatives	MeSH	Pharmacological Action	http://identifiers.org/mesh/D05436
 D054795	Incretins	MeSH	Pharmacological Action	http://identifiers.org/mesh/D054795
 D054872	Fatty Acid Synthesis Inhibitors	MeSH	Pharmacological Action	http://identifiers.org/mesh/D054872
 D054873	Dipeptidyl-Peptidase IV Inhibitors	MeSH	Pharmacological Action	http://identifiers.org/mesh/D054873
-D055675	Viscosupplements	MeSH	Pharmacological Action	http://identifiers.org/mesh/D055675
 D056572	Histone Deacetylase Inhibitors	MeSH	Pharmacological Action	http://identifiers.org/mesh/D056572
 D057911	Angiotensin Receptor Antagonists	MeSH	Pharmacological Action	http://identifiers.org/mesh/D057911
 D057912	Angiotensin II Type 2 Receptor Blockers	MeSH	Pharmacological Action	http://identifiers.org/mesh/D057912
 D057966	Calcimimetic Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D057966
-D058205	Tooth Bleaching Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D058205
-D058427	Hygroscopic Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D058427
 D058633	Antipyretics	MeSH	Pharmacological Action	http://identifiers.org/mesh/D058633
 D058646	Adrenergic alpha-1 Receptor Agonists	MeSH	Pharmacological Action	http://identifiers.org/mesh/D058646
 D058647	Adrenergic alpha-2 Receptor Agonists	MeSH	Pharmacological Action	http://identifiers.org/mesh/D058647
@@ -1438,9 +1126,7 @@ D058671	Adrenergic beta-1 Receptor Antagonists	MeSH	Pharmacological Action	http:
 D058785	GABA-A Receptor Agonists	MeSH	Pharmacological Action	http://identifiers.org/mesh/D058785
 D058786	GABA-B Receptor Agonists	MeSH	Pharmacological Action	http://identifiers.org/mesh/D058786
 D058825	Serotonin 5-HT1 Receptor Agonists	MeSH	Pharmacological Action	http://identifiers.org/mesh/D058825
-D058829	Serotonin 5-HT1 Receptor Antagonists	MeSH	Pharmacological Action	http://identifiers.org/mesh/D058829
 D058830	Serotonin 5-HT2 Receptor Antagonists	MeSH	Pharmacological Action	http://identifiers.org/mesh/D058830
-D058831	Serotonin 5-HT3 Receptor Antagonists	MeSH	Pharmacological Action	http://identifiers.org/mesh/D058831
 D058888	14-alpha Demethylase Inhibitors	MeSH	Pharmacological Action	http://identifiers.org/mesh/D058888
 D058891	5-alpha Reductase Inhibitors	MeSH	Pharmacological Action	http://identifiers.org/mesh/D058891
 D058892	Adenosine Deaminase Inhibitors	MeSH	Pharmacological Action	http://identifiers.org/mesh/D058892
@@ -1479,7 +1165,6 @@ D065100	CCR5 Receptor Antagonists	MeSH	Pharmacological Action	http://identifiers
 D065101	Chloride Channel Agonists	MeSH	Pharmacological Action	http://identifiers.org/mesh/D065101
 D065104	Cystine Depleting Agents	MeSH	Pharmacological Action	http://identifiers.org/mesh/D065104
 D065105	Aromatic Amino Acid Decarboxylase Inhibitors	MeSH	Pharmacological Action	http://identifiers.org/mesh/D065105
-D065108	Ornithine Decarboxylase Inhibitors	MeSH	Pharmacological Action	http://identifiers.org/mesh/D065108
 D065127	Dopamine D2 Receptor Antagonists	MeSH	Pharmacological Action	http://identifiers.org/mesh/D065127
 D065128	Endothelin Receptor Antagonists	MeSH	Pharmacological Action	http://identifiers.org/mesh/D065128
 D065130	Endothelin A Receptor Antagonists	MeSH	Pharmacological Action	http://identifiers.org/mesh/D065130
@@ -1501,20 +1186,14 @@ D065696	Cytochrome P-450 CYP2C8 Inducers	MeSH	Pharmacological Action	http://iden
 D065697	Cytochrome P-450 CYP2C19 Inducers	MeSH	Pharmacological Action	http://identifiers.org/mesh/D065697
 D065698	Cytochrome P-450 CYP2C9 Inducers	MeSH	Pharmacological Action	http://identifiers.org/mesh/D065698
 D065701	Cytochrome P-450 CYP3A Inducers	MeSH	Pharmacological Action	http://identifiers.org/mesh/D065701
-N0000008294	Alveolar Surface Tension Reduction	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000008294
 N0000008330	Cardiac Rhythm Alteration	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000008330
-N0000008476	Decreased Cell Membrane Integrity	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000008476
 N0000008478	Decreased Cell Wall Integrity	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000008478
 N0000008479	Decreased Cell Wall Synthesis & Repair	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000008479
 N0000008486	Decreased Central Nervous System Disorganized Electrical Activity	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000008486
 N0000008553	Decreased Cholesterol Absorption	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000008553
 N0000008556	Decreased Coagulation Factor Activity	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000008556
-N0000008571	Decreased Cytokine Activity	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000008571
 N0000008577	Decreased DNA Replication	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000008577
-N0000008635	Decreased GI Motility	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000008635
-N0000008636	Decreased GI Smooth Muscle Tone	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000008636
 N0000008638	Decreased GnRH Secretion	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000008638
-N0000008652	Decreased Glycolysis	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000008652
 N0000008663	Decreased Immunologically Active Molecule Activity	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000008663
 N0000008683	Decreased Leukotriene Production	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000008683
 N0000008732	Decreased Mitosis	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000008732
@@ -1537,17 +1216,10 @@ N0000009176	Increased Cellular Death	FDA	Physiologic Effect	http://purl.bioontol
 N0000009267	Increased Cytokine Activity	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000009267
 N0000009269	Increased Cytokine Production	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000009269
 N0000009282	Increased Dopamine Activity	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000009282
-N0000009319	Increased Erythroid Cell Production	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000009319
-N0000009327	Increased GHRH Activity	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000009327
-N0000009340	Increased Gluconeogenesis	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000009340
-N0000009345	Increased Glycogenolysis	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000009345
 N0000009371	Increased Large Intestinal Motility	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000009371
-N0000009391	Increased Lymphocyte Cell Production	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000009391
 N0000009393	Increased Medullary Respiratory Drive	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000009393
-N0000009451	Increased Myeloid Cell Production	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000009451
 N0000009456	Increased Norepinephrine Activity	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000009456
 N0000009526	Increased Prostaglandin Activity	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000009526
-N0000009705	Increased Uterine Smooth Muscle Contraction or Tone	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000009705
 N0000009724	Inhibition Gastric Acid Secretion	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000009724
 N0000009801	Photosensitizing Activity	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000009801
 N0000009871	Stimulation Large Intestine Fluid/Electrolyte Secretion	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000009871
@@ -1555,7 +1227,6 @@ N0000009905	Vascular Sclerosing Activity	FDA	Physiologic Effect	http://purl.bioo
 N0000009909	Vasodilation	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000009909
 N0000009911	Venous Vasodilation	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000009911
 N0000009982	Decreased Sebaceous Gland Activity	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000009982
-N0000010282	Skin Barrier Activity	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000010282
 N0000175085	Microtubule Inhibition	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000175085
 N0000175359	Increased Diuresis	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000175359
 N0000175366	Increased Diuresis at Loop of Henle	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000175366
@@ -1568,14 +1239,12 @@ N0000175632	Decreased Fibrinolysis	FDA	Physiologic Effect	http://purl.bioontolog
 N0000175644	Decreased Autonomic Ganglionic Activity	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000175644
 N0000175650	Decreased Sympathetic Activity	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000175650
 N0000175651	Increased Sympathetic Activity	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000175651
-N0000175675	Increased Epithelial Proliferation	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000175675
 N0000175728	Central Nervous System Depression	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000175728
 N0000175729	Central Nervous System Stimulation	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000175729
 N0000175730	Centrally-mediated Muscle Relaxation	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000175730
 N0000175732	Neuromuscular Nondepolarizing Blockade	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000175732
 N0000175733	Neuromuscular Depolarizing Blockade	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000175733
 N0000175735	Decreased Striated Muscle Tone	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000175735
-N0000175793	Decreased IgE Activity	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000175793
 N0000175830	Inhibit Ovum Fertilization	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000175830
 N0000175851	Depigmenting Activity	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000175851
 N0000175914	Increased Coagulation Factor VIII Activity	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000175914
@@ -1589,10 +1258,6 @@ N0000175975	General Anesthesia	FDA	Physiologic Effect	http://purl.bioontology.or
 N0000175976	Local Anesthesia	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000175976
 N0000175982	Reversed Anticoagulation Activity	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000175982
 N0000178324	Increased Hematopoietic Stem Cell Mobilization	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000178324
-N0000178328	Increased Lymphocyte Activation	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000178328
 N0000178477	Decreased Blood Pressure	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000178477
 N0000178478	Increased Blood Pressure	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000178478
-N0000182156	Decreased B Lymphocyte Activation	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000182156
-N0000182157	Increased T Lymphocyte Activation	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000182157
 N0000184306	Cell-mediated Immunity	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000184306
-N0000185001	Increased IgG Production	FDA	Physiologic Effect	http://purl.bioontology.org/ontology/NDFRT/N0000185001
