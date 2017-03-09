@@ -125,10 +125,6 @@ DB00147	Pyridoxal	D006133	Growth Substances
 DB00147	Pyridoxal	D018977	Micronutrients
 DB00147	Pyridoxal	D014803	Vitamin B Complex
 DB00147	Pyridoxal	D014815	Vitamins
-DB00147	Pyridoxal	D006133	Growth Substances
-DB00147	Pyridoxal	D018977	Micronutrients
-DB00147	Pyridoxal	D014803	Vitamin B Complex
-DB00147	Pyridoxal	D014815	Vitamins
 DB00152	Thiamine	D006133	Growth Substances
 DB00152	Thiamine	D018977	Micronutrients
 DB00152	Thiamine	D014803	Vitamin B Complex
@@ -777,19 +773,8 @@ DB01250	Olsalazine	D000894	Anti-Inflammatory Agents, Non-Steroidal
 DB01250	Olsalazine	D018501	Antirheumatic Agents
 DB01250	Olsalazine	D005765	Gastrointestinal Agents
 DB01250	Olsalazine	D018689	Sensory System Agents
-DB00244	Mesalazine	N0000175781	Aminosalicylate
-DB00244	Mesalazine	N0000005760	Aminosalicylic Acids
-DB00244	Mesalazine	D000700	Analgesics
-DB00244	Mesalazine	D018712	Analgesics, Non-Narcotic
-DB00244	Mesalazine	D000893	Anti-Inflammatory Agents
-DB00244	Mesalazine	D000894	Anti-Inflammatory Agents, Non-Steroidal
-DB00244	Mesalazine	CHEBI:50266	prodrug
-DB00244	Mesalazine	CHEBI:35475	non-steroidal anti-inflammatory drug
 DB00244	Mesalazine	CHEBI:49201	anti-ulcer drug
 DB00244	Mesalazine	CHEBI:55324	gastrointestinal drug
-DB00244	Mesalazine	D018501	Antirheumatic Agents
-DB00244	Mesalazine	D005765	Gastrointestinal Agents
-DB00244	Mesalazine	D018689	Sensory System Agents
 DB01014	Balsalazide	N0000175781	Aminosalicylate
 DB01014	Balsalazide	N0000005760	Aminosalicylic Acids
 DB01014	Balsalazide	D000700	Analgesics
@@ -803,19 +788,8 @@ DB01014	Balsalazide	CHEBI:55324	gastrointestinal drug
 DB01014	Balsalazide	D018501	Antirheumatic Agents
 DB01014	Balsalazide	D005765	Gastrointestinal Agents
 DB01014	Balsalazide	D018689	Sensory System Agents
-DB00244	Mesalazine	N0000175781	Aminosalicylate
-DB00244	Mesalazine	N0000005760	Aminosalicylic Acids
-DB00244	Mesalazine	D000700	Analgesics
-DB00244	Mesalazine	D018712	Analgesics, Non-Narcotic
 DB00244	Mesalazine	D000890	Anti-Infective Agents
-DB00244	Mesalazine	D000893	Anti-Inflammatory Agents
-DB00244	Mesalazine	CHEBI:35475	non-steroidal anti-inflammatory drug
 DB00244	Mesalazine	CHEBI:35441	antiinfective agent
-DB00244	Mesalazine	CHEBI:55324	gastrointestinal drug
-DB00244	Mesalazine	D000894	Anti-Inflammatory Agents, Non-Steroidal
-DB00244	Mesalazine	D018501	Antirheumatic Agents
-DB00244	Mesalazine	D005765	Gastrointestinal Agents
-DB00244	Mesalazine	D018689	Sensory System Agents
 DB00795	Sulfasalazine	N0000175781	Aminosalicylate
 DB00795	Sulfasalazine	N0000005760	Aminosalicylic Acids
 DB00795	Sulfasalazine	D000700	Analgesics
@@ -829,15 +803,6 @@ DB00795	Sulfasalazine	D000894	Anti-Inflammatory Agents, Non-Steroidal
 DB00795	Sulfasalazine	D018501	Antirheumatic Agents
 DB00795	Sulfasalazine	D005765	Gastrointestinal Agents
 DB00795	Sulfasalazine	D018689	Sensory System Agents
-DB00244	Mesalazine	N0000175781	Aminosalicylate
-DB00244	Mesalazine	N0000005760	Aminosalicylic Acids
-DB00244	Mesalazine	D000700	Analgesics
-DB00244	Mesalazine	D018712	Analgesics, Non-Narcotic
-DB00244	Mesalazine	D000893	Anti-Inflammatory Agents
-DB00244	Mesalazine	CHEBI:35475	non-steroidal anti-inflammatory drug
-DB00244	Mesalazine	D000894	Anti-Inflammatory Agents, Non-Steroidal
-DB00244	Mesalazine	D018501	Antirheumatic Agents
-DB00244	Mesalazine	D018689	Sensory System Agents
 DB00245	Benzatropine	N0000175574	Anticholinergic
 DB00245	Benzatropine	N0000175750	Antihistamine
 DB00245	Benzatropine	N0000000207	Histamine Receptor Antagonists
@@ -1227,12 +1192,8 @@ DB00860	Prednisolone	D018906	Antineoplastic Agents, Alkylating
 DB00860	Prednisolone	D009676	Noxae
 DB00291	Chlorambucil	N0000000236	Alkylating Activity
 DB00291	Chlorambucil	N0000175558	Alkylating Drug
-DB00291	Chlorambucil	D000477	Alkylating Agents
 DB00291	Chlorambucil	CHEBI:35610	antineoplastic agent
 DB00291	Chlorambucil	CHEBI:35705	immunosuppressive agent
-DB00291	Chlorambucil	D000970	Antineoplastic Agents
-DB00291	Chlorambucil	D018906	Antineoplastic Agents, Alkylating
-DB00291	Chlorambucil	D009676	Noxae
 DB00292	Etomidate	N0000175975	General Anesthesia
 DB00292	Etomidate	N0000175681	General Anesthetic
 DB00292	Etomidate	D000777	Anesthetics
@@ -1275,14 +1236,6 @@ DB01452	Heroin	D009294	Narcotics
 DB01452	Heroin	D018689	Sensory System Agents
 DB00295	Morphine	N0000175684	Full Opioid Agonists
 DB00295	Morphine	N0000175690	Opioid Agonist
-DB00295	Morphine	D000700	Analgesics
-DB00295	Morphine	D000701	Analgesics, Opioid
-DB00295	Morphine	CHEBI:55322	mu-opioid receptor agonist
-DB00295	Morphine	CHEBI:35482	opioid analgesic
-DB00295	Morphine	D002491	Central Nervous System Agents
-DB00295	Morphine	D002492	Central Nervous System Depressants
-DB00295	Morphine	D009294	Narcotics
-DB00295	Morphine	D018689	Sensory System Agents
 DB00296	Ropivacaine	N0000175682	Amide Local Anesthetic
 DB00296	Ropivacaine	N0000007681	Amides
 DB00296	Ropivacaine	N0000175976	Local Anesthesia
@@ -1324,11 +1277,8 @@ DB00299	Penciclovir	CHEBI:36044	antiviral drug
 DB00299	Penciclovir	D000998	Antiviral Agents
 DB00300	Tenofovir	CHEBI:36044	antiviral drug
 DB00300	Tenofovir	CHEBI:50266	prodrug
-DB00300	Tenofovir	CHEBI:50266	prodrug
-DB00300	Tenofovir	CHEBI:36044	antiviral drug
 DB00300	Tenofovir	D019380	Anti-HIV Agents
 DB00300	Tenofovir	D000890	Anti-Infective Agents
-DB00300	Tenofovir	CHEBI:36044	antiviral drug
 DB00300	Tenofovir	D000998	Antiviral Agents
 DB00300	Tenofovir	D004791	Enzyme Inhibitors
 DB00300	Tenofovir	D019384	Nucleic Acid Synthesis Inhibitors
@@ -1635,14 +1585,7 @@ DB00736	Esomeprazole	D000897	Anti-Ulcer Agents
 DB00736	Esomeprazole	D004791	Enzyme Inhibitors
 DB00736	Esomeprazole	D005765	Gastrointestinal Agents
 DB00736	Esomeprazole	D054328	Proton Pump Inhibitors
-DB00338	Omeprazole	N0000175525	Proton Pump Inhibitor
-DB00338	Omeprazole	N0000182140	Cytochrome P450 2C19 Inhibitors
-DB00338	Omeprazole	CHEBI:49201	anti-ulcer drug
 DB00338	Omeprazole	CHEBI:35623	anticonvulsant
-DB00338	Omeprazole	D000897	Anti-Ulcer Agents
-DB00338	Omeprazole	D004791	Enzyme Inhibitors
-DB00338	Omeprazole	D005765	Gastrointestinal Agents
-DB00338	Omeprazole	D054328	Proton Pump Inhibitors
 DB00339	Pyrazinamide	N0000175483	Antimycobacterial
 DB00339	Pyrazinamide	D000900	Anti-Bacterial Agents
 DB00339	Pyrazinamide	D000890	Anti-Infective Agents
@@ -1863,7 +1806,6 @@ DB06262	Droxidopa	CHEBI:35674	antihypertensive agent
 DB06262	Droxidopa	D000978	Antiparkinson Agents
 DB06262	Droxidopa	D002491	Central Nervous System Agents
 DB00368	Norepinephrine	N0000175570	Catecholamine
-DB00368	Norepinephrine	N0000007715	Catecholamines
 DB00368	Norepinephrine	D018663	Adrenergic Agents
 DB00368	Norepinephrine	D000322	Adrenergic Agonists
 DB00368	Norepinephrine	D000316	Adrenergic alpha-Agonists
@@ -2463,23 +2405,12 @@ DB00442	Entecavir	D000998	Antiviral Agents
 DB00443	Betamethasone	D000893	Anti-Inflammatory Agents
 DB00443	Betamethasone	D005938	Glucocorticoids
 DB00443	Betamethasone	D006728	Hormones
-DB00443	Betamethasone	D000893	Anti-Inflammatory Agents
-DB00443	Betamethasone	D005938	Glucocorticoids
-DB00443	Betamethasone	D006728	Hormones
-DB00443	Betamethasone	D000893	Anti-Inflammatory Agents
-DB00443	Betamethasone	D005938	Glucocorticoids
-DB00443	Betamethasone	D006728	Hormones
-DB00443	Betamethasone	D005938	Glucocorticoids
-DB00443	Betamethasone	D006728	Hormones
 DB00443	Betamethasone	N0000175576	Corticosteroid
 DB00443	Betamethasone	N0000175450	Corticosteroid Hormone Receptor Agonists
 DB00443	Betamethasone	D018927	Anti-Asthmatic Agents
-DB00443	Betamethasone	D000893	Anti-Inflammatory Agents
 DB00443	Betamethasone	CHEBI:65023	anti-asthmatic agent
 DB00443	Betamethasone	CHEBI:35705	immunosuppressive agent
 DB00443	Betamethasone	CHEBI:35472	anti-inflammatory drug
-DB00443	Betamethasone	D005938	Glucocorticoids
-DB00443	Betamethasone	D006728	Hormones
 DB00443	Betamethasone	D019141	Respiratory System Agents
 DB00444	Teniposide	N0000175609	Topoisomerase Inhibitor
 DB00444	Teniposide	N0000000176	Topoisomerase Inhibitors
@@ -2499,8 +2430,6 @@ DB00446	Chloramphenicol	D000900	Anti-Bacterial Agents
 DB00446	Chloramphenicol	D000890	Anti-Infective Agents
 DB00446	Chloramphenicol	N0000175480	Amphenicol-class Antibacterial
 DB00446	Chloramphenicol	N0000175479	Amphenicols
-DB00446	Chloramphenicol	D000900	Anti-Bacterial Agents
-DB00446	Chloramphenicol	D000890	Anti-Infective Agents
 DB00446	Chloramphenicol	CHEBI:36047	antibacterial drug
 DB00446	Chloramphenicol	D004791	Enzyme Inhibitors
 DB00446	Chloramphenicol	D011500	Protein Synthesis Inhibitors
@@ -2601,9 +2530,6 @@ DB00459	Acitretin	D003879	Dermatologic Agents
 DB00459	Acitretin	D007641	Keratolytic Agents
 DB00459	Acitretin	N0000175607	Retinoid
 DB00459	Acitretin	N0000007700	Retinoids
-DB00459	Acitretin	CHEBI:50176	keratolytic drug
-DB00459	Acitretin	D003879	Dermatologic Agents
-DB00459	Acitretin	D007641	Keratolytic Agents
 DB00460	Verteporfin	N0000010217	Photoabsorption
 DB00460	Verteporfin	N0000175540	Photoenhancer
 DB00460	Verteporfin	N0000009801	Photosensitizing Activity
@@ -2990,15 +2916,10 @@ DB00502	Haloperidol	CHEBI:50919	antiemetic
 DB00502	Haloperidol	CHEBI:65190	first generation antipsychotic
 DB00502	Haloperidol	CHEBI:48279	serotonergic antagonist
 DB00502	Haloperidol	D000932	Antiemetics
-DB00502	Haloperidol	D014150	Antipsychotic Agents
-DB00502	Haloperidol	D002491	Central Nervous System Agents
-DB00502	Haloperidol	D002492	Central Nervous System Depressants
 DB00502	Haloperidol	D015259	Dopamine Agents
 DB00502	Haloperidol	D018492	Dopamine Antagonists
 DB00502	Haloperidol	D005765	Gastrointestinal Agents
 DB00502	Haloperidol	D018377	Neurotransmitter Agents
-DB00502	Haloperidol	D011619	Psychotropic Drugs
-DB00502	Haloperidol	D014149	Tranquilizing Agents
 DB00503	Ritonavir	N0000191001	Cytochrome P450 3A Inhibitor
 DB00503	Ritonavir	N0000175889	Protease Inhibitor
 DB00503	Ritonavir	N0000190114	Cytochrome P450 3A Inhibitors
@@ -3333,9 +3254,6 @@ DB00554	Piroxicam	N0000175722	Nonsteroidal Anti-inflammatory Drug
 DB00554	Piroxicam	D000700	Analgesics
 DB00554	Piroxicam	D018712	Analgesics, Non-Narcotic
 DB00554	Piroxicam	D000893	Anti-Inflammatory Agents
-DB00554	Piroxicam	CHEBI:35842	antirheumatic drug
-DB00554	Piroxicam	CHEBI:35475	non-steroidal anti-inflammatory drug
-DB00554	Piroxicam	CHEBI:35480	analgesic
 DB00554	Piroxicam	D000894	Anti-Inflammatory Agents, Non-Steroidal
 DB00554	Piroxicam	D018501	Antirheumatic Agents
 DB00554	Piroxicam	D016861	Cyclooxygenase Inhibitors
@@ -3556,12 +3474,8 @@ DB00577	Valaciclovir	D000998	Antiviral Agents
 DB00578	Carbenicillin	D000900	Anti-Bacterial Agents
 DB00578	Carbenicillin	D000890	Anti-Infective Agents
 DB00578	Carbenicillin	D000892	Anti-Infective Agents, Urinary
-DB00578	Carbenicillin	D000900	Anti-Bacterial Agents
-DB00578	Carbenicillin	D000890	Anti-Infective Agents
 DB00578	Carbenicillin	N0000175497	Penicillin-class Antibacterial
 DB00578	Carbenicillin	N0000011281	Penicillins
-DB00578	Carbenicillin	D000900	Anti-Bacterial Agents
-DB00578	Carbenicillin	D000890	Anti-Infective Agents
 DB00578	Carbenicillin	CHEBI:36047	antibacterial drug
 DB00579	Mazindol	D018663	Adrenergic Agents
 DB00579	Mazindol	D018759	Adrenergic Uptake Inhibitors
@@ -3916,16 +3830,10 @@ DB00620	Triamcinolone	D006728	Hormones
 DB00620	Triamcinolone	D007155	Immunologic Factors
 DB00620	Triamcinolone	D007166	Immunosuppressive Agents
 DB00620	Triamcinolone	D004791	Enzyme Inhibitors
-DB00620	Triamcinolone	D000893	Anti-Inflammatory Agents
-DB00620	Triamcinolone	D005938	Glucocorticoids
-DB00620	Triamcinolone	D006728	Hormones
 DB00620	Triamcinolone	N0000175576	Corticosteroid
 DB00620	Triamcinolone	N0000175450	Corticosteroid Hormone Receptor Agonists
-DB00620	Triamcinolone	D000893	Anti-Inflammatory Agents
 DB00620	Triamcinolone	CHEBI:50857	anti-allergic agent
 DB00620	Triamcinolone	CHEBI:35472	anti-inflammatory drug
-DB00620	Triamcinolone	D005938	Glucocorticoids
-DB00620	Triamcinolone	D006728	Hormones
 DB00621	Oxandrolone	D045930	Anabolic Agents
 DB00621	Oxandrolone	D000728	Androgens
 DB00621	Oxandrolone	D006728	Hormones
@@ -3946,23 +3854,14 @@ DB00623	Fluphenazine	N0000175746	Phenothiazine
 DB00623	Fluphenazine	N0000007544	Phenothiazines
 DB00623	Fluphenazine	CHEBI:37930	phenothiazine antipsychotic drug
 DB00623	Fluphenazine	CHEBI:48561	dopaminergic antagonist
-DB00623	Fluphenazine	D014150	Antipsychotic Agents
-DB00623	Fluphenazine	D002491	Central Nervous System Agents
-DB00623	Fluphenazine	D002492	Central Nervous System Depressants
 DB00623	Fluphenazine	D015259	Dopamine Agents
 DB00623	Fluphenazine	D018492	Dopamine Antagonists
 DB00623	Fluphenazine	D018377	Neurotransmitter Agents
-DB00623	Fluphenazine	D011619	Psychotropic Drugs
-DB00623	Fluphenazine	D014149	Tranquilizing Agents
-DB00624	Testosterone	D000728	Androgens
-DB00624	Testosterone	D006728	Hormones
 DB00624	Testosterone	D000728	Androgens
 DB00624	Testosterone	D006728	Hormones
 DB00624	Testosterone	N0000175824	Androgen
 DB00624	Testosterone	N0000000146	Androgen Receptor Agonists
 DB00624	Testosterone	N0000008241	Androstanes
-DB00624	Testosterone	D000728	Androgens
-DB00624	Testosterone	D006728	Hormones
 DB00625	Efavirenz	N0000175463	Human Immunodeficiency Virus 1 Non-Nucleoside Analog Reverse Transcriptase Inhibitor
 DB00625	Efavirenz	N0000175460	Non-Nucleoside Analog
 DB00625	Efavirenz	N0000009948	Non-Nucleoside Reverse Transcriptase Inhibitors
@@ -4306,15 +4205,12 @@ DB00668	Epinephrine	N0000175552	alpha-Adrenergic Agonist
 DB00668	Epinephrine	N0000175555	beta-Adrenergic Agonist
 DB00668	Epinephrine	N0000175570	Catecholamine
 DB00668	Epinephrine	N0000007715	Catecholamines
-DB00668	Epinephrine	D018663	Adrenergic Agents
-DB00668	Epinephrine	D000322	Adrenergic Agonists
 DB00668	Epinephrine	D000316	Adrenergic alpha-Agonists
 DB00668	Epinephrine	D000318	Adrenergic beta-Agonists
 DB00668	Epinephrine	D018927	Anti-Asthmatic Agents
 DB00668	Epinephrine	D001993	Bronchodilator Agents
 DB00668	Epinephrine	D002317	Cardiovascular Agents
 DB00668	Epinephrine	D009184	Mydriatics
-DB00668	Epinephrine	D018377	Neurotransmitter Agents
 DB00668	Epinephrine	D019141	Respiratory System Agents
 DB00668	Epinephrine	D013566	Sympathomimetics
 DB00668	Epinephrine	D014662	Vasoconstrictor Agents
@@ -4599,20 +4495,13 @@ DB01319	Fosamprenavir	D000998	Antiviral Agents
 DB01319	Fosamprenavir	D004791	Enzyme Inhibitors
 DB01319	Fosamprenavir	D017320	HIV Protease Inhibitors
 DB01319	Fosamprenavir	D011480	Protease Inhibitors
-DB00701	Amprenavir	N0000175889	Protease Inhibitor
 DB00701	Amprenavir	N0000182141	Cytochrome P450 3A4 Inhibitors
 DB00701	Amprenavir	N0000185506	Cytochrome P450 3A4 Inducers
 DB00701	Amprenavir	N0000191264	P-Glycoprotein Inducers
 DB00701	Amprenavir	D000900	Anti-Bacterial Agents
-DB00701	Amprenavir	D019380	Anti-HIV Agents
-DB00701	Amprenavir	D000890	Anti-Infective Agents
 DB00701	Amprenavir	CHEBI:36044	antiviral drug
 DB00701	Amprenavir	D000904	Antibiotics, Antitubercular
 DB00701	Amprenavir	D000995	Antitubercular Agents
-DB00701	Amprenavir	D000998	Antiviral Agents
-DB00701	Amprenavir	D004791	Enzyme Inhibitors
-DB00701	Amprenavir	D017320	HIV Protease Inhibitors
-DB00701	Amprenavir	D011480	Protease Inhibitors
 DB00703	Methazolamide	D002257	Carbonic Anhydrase Inhibitors
 DB00703	Methazolamide	D004232	Diuretics
 DB00703	Methazolamide	D004791	Enzyme Inhibitors
@@ -4694,17 +4583,11 @@ DB00712	Flurbiprofen	D018501	Antirheumatic Agents
 DB00712	Flurbiprofen	D018689	Sensory System Agents
 DB00712	Flurbiprofen	N0000175721	Nonsteroidal Anti-inflammatory Compounds
 DB00712	Flurbiprofen	N0000175722	Nonsteroidal Anti-inflammatory Drug
-DB00712	Flurbiprofen	D000700	Analgesics
-DB00712	Flurbiprofen	D018712	Analgesics, Non-Narcotic
-DB00712	Flurbiprofen	D000893	Anti-Inflammatory Agents
-DB00712	Flurbiprofen	D000894	Anti-Inflammatory Agents, Non-Steroidal
 DB00712	Flurbiprofen	CHEBI:35475	non-steroidal anti-inflammatory drug
 DB00712	Flurbiprofen	CHEBI:35481	non-narcotic analgesic
-DB00712	Flurbiprofen	D018501	Antirheumatic Agents
 DB00712	Flurbiprofen	D002491	Central Nervous System Agents
 DB00712	Flurbiprofen	D016861	Cyclooxygenase Inhibitors
 DB00712	Flurbiprofen	D004791	Enzyme Inhibitors
-DB00712	Flurbiprofen	D018689	Sensory System Agents
 DB00713	Oxacillin	N0000175497	Penicillin-class Antibacterial
 DB00713	Oxacillin	N0000011281	Penicillins
 DB00713	Oxacillin	D000900	Anti-Bacterial Agents
@@ -4753,19 +4636,8 @@ DB00717	Norethindrone	D003276	Contraceptives, Oral
 DB00717	Norethindrone	D003280	Contraceptives, Oral, Synthetic
 DB00717	Norethindrone	D012102	Reproductive Control Agents
 DB00717	Norethindrone	CHEBI:49326	synthetic oral contraceptive
-DB00717	Norethindrone	D003270	Contraceptive Agents
-DB00717	Norethindrone	D003271	Contraceptive Agents, Female
-DB00717	Norethindrone	D003276	Contraceptives, Oral
-DB00717	Norethindrone	D003280	Contraceptives, Oral, Synthetic
-DB00717	Norethindrone	D012102	Reproductive Control Agents
 DB00717	Norethindrone	N0000011301	Progesterone Congeners
 DB00717	Norethindrone	N0000175602	Progestin
-DB00717	Norethindrone	CHEBI:49326	synthetic oral contraceptive
-DB00717	Norethindrone	D003270	Contraceptive Agents
-DB00717	Norethindrone	D003271	Contraceptive Agents, Female
-DB00717	Norethindrone	D003276	Contraceptives, Oral
-DB00717	Norethindrone	D003280	Contraceptives, Oral, Synthetic
-DB00717	Norethindrone	D012102	Reproductive Control Agents
 DB00718	Adefovir Dipivoxil	D000890	Anti-Infective Agents
 DB00718	Adefovir Dipivoxil	D000998	Antiviral Agents
 DB00718	Adefovir Dipivoxil	D004791	Enzyme Inhibitors
@@ -4934,8 +4806,6 @@ DB00741	Hydrocortisone	CHEBI:50177	dermatologic drug
 DB00741	Hydrocortisone	D000893	Anti-Inflammatory Agents
 DB00741	Hydrocortisone	N0000175576	Corticosteroid
 DB00741	Hydrocortisone	N0000175450	Corticosteroid Hormone Receptor Agonists
-DB00741	Hydrocortisone	D000893	Anti-Inflammatory Agents
-DB00741	Hydrocortisone	CHEBI:35472	anti-inflammatory drug
 DB00741	Hydrocortisone	CHEBI:50857	anti-allergic agent
 DB00741	Hydrocortisone	CHEBI:49167	anti-asthmatic drug
 DB00742	Mannitol	N0000175359	Increased Diuresis
@@ -5186,8 +5056,6 @@ DB00773	Etoposide	CHEBI:35610	antineoplastic agent
 DB00773	Etoposide	D000970	Antineoplastic Agents
 DB00773	Etoposide	N0000175609	Topoisomerase Inhibitor
 DB00773	Etoposide	N0000000176	Topoisomerase Inhibitors
-DB00773	Etoposide	CHEBI:35610	antineoplastic agent
-DB00773	Etoposide	D000970	Antineoplastic Agents
 DB00773	Etoposide	D000972	Antineoplastic Agents, Phytogenic
 DB00773	Etoposide	D004791	Enzyme Inhibitors
 DB00773	Etoposide	D059005	Topoisomerase II Inhibitors
@@ -5254,13 +5122,9 @@ DB00783	Estradiol	D003270	Contraceptive Agents
 DB00783	Estradiol	D012102	Reproductive Control Agents
 DB00783	Estradiol	D004967	Estrogens
 DB00783	Estradiol	D006728	Hormones
-DB00783	Estradiol	D004967	Estrogens
-DB00783	Estradiol	D006728	Hormones
 DB00783	Estradiol	N0000011402	Estradiol Congeners
 DB00783	Estradiol	N0000175825	Estrogen
 DB00783	Estradiol	N0000000100	Estrogen Receptor Agonists
-DB00783	Estradiol	D004967	Estrogens
-DB00783	Estradiol	D006728	Hormones
 DB00784	Mefenamic acid	N0000175721	Nonsteroidal Anti-inflammatory Compounds
 DB00784	Mefenamic acid	N0000175722	Nonsteroidal Anti-inflammatory Drug
 DB00784	Mefenamic acid	D000700	Analgesics
@@ -5815,7 +5679,6 @@ DB00855	Aminolevulinic acid	D003879	Dermatologic Agents
 DB00855	Aminolevulinic acid	D017319	Photosensitizing Agents
 DB00855	Aminolevulinic acid	D011838	Radiation-Sensitizing Agents
 DB00856	Chlorphenesin	CHEBI:51371	muscle relaxant
-DB00856	Chlorphenesin	CHEBI:51371	muscle relaxant
 DB00856	Chlorphenesin	CHEBI:36047	antibacterial drug
 DB00856	Chlorphenesin	CHEBI:86327	antifungal drug
 DB00856	Chlorphenesin	D002491	Central Nervous System Agents
@@ -5839,25 +5702,16 @@ DB00860	Prednisolone	D005938	Glucocorticoids
 DB00860	Prednisolone	D006728	Hormones
 DB00860	Prednisolone	N0000175576	Corticosteroid
 DB00860	Prednisolone	N0000175450	Corticosteroid Hormone Receptor Agonists
-DB00860	Prednisolone	D000893	Anti-Inflammatory Agents
-DB00860	Prednisolone	D005938	Glucocorticoids
-DB00860	Prednisolone	D006728	Hormones
 DB01130	Prednicarbate	N0000175576	Corticosteroid
 DB01130	Prednicarbate	N0000175450	Corticosteroid Hormone Receptor Agonists
 DB01130	Prednicarbate	D000893	Anti-Inflammatory Agents
 DB01130	Prednicarbate	D005938	Glucocorticoids
 DB01130	Prednicarbate	D006728	Hormones
-DB00860	Prednisolone	N0000175576	Corticosteroid
-DB00860	Prednisolone	N0000175450	Corticosteroid Hormone Receptor Agonists
-DB00860	Prednisolone	D000893	Anti-Inflammatory Agents
 DB00860	Prednisolone	CHEBI:37962	adrenergic agent
 DB00860	Prednisolone	CHEBI:35472	anti-inflammatory drug
 DB00860	Prednisolone	CHEBI:35610	antineoplastic agent
 DB00860	Prednisolone	CHEBI:35705	immunosuppressive agent
-DB00860	Prednisolone	D000970	Antineoplastic Agents
 DB00860	Prednisolone	D018931	Antineoplastic Agents, Hormonal
-DB00860	Prednisolone	D005938	Glucocorticoids
-DB00860	Prednisolone	D006728	Hormones
 DB00861	Diflunisal	N0000175721	Nonsteroidal Anti-inflammatory Compounds
 DB00861	Diflunisal	N0000175722	Nonsteroidal Anti-inflammatory Drug
 DB00861	Diflunisal	D000700	Analgesics
@@ -6457,10 +6311,6 @@ DB00935	Oxymetazoline	D014662	Vasoconstrictor Agents
 DB00936	Salicylic acid	N0000008836	Decreased Prostaglandin Production
 DB00936	Salicylic acid	N0000175721	Nonsteroidal Anti-inflammatory Compounds
 DB00936	Salicylic acid	N0000175722	Nonsteroidal Anti-inflammatory Drug
-DB00936	Salicylic acid	D000700	Analgesics
-DB00936	Salicylic acid	D018712	Analgesics, Non-Narcotic
-DB00936	Salicylic acid	D000893	Anti-Inflammatory Agents
-DB00936	Salicylic acid	D000894	Anti-Inflammatory Agents, Non-Steroidal
 DB00936	Salicylic acid	CHEBI:73182	plant activator
 DB00936	Salicylic acid	CHEBI:88188	drug allergen
 DB00936	Salicylic acid	CHEBI:50427	platelet aggregation inhibitor
@@ -6470,14 +6320,12 @@ DB00936	Salicylic acid	CHEBI:50249	anticoagulant
 DB00936	Salicylic acid	CHEBI:35475	non-steroidal anti-inflammatory drug
 DB00936	Salicylic acid	CHEBI:35481	non-narcotic analgesic
 DB00936	Salicylic acid	D058633	Antipyretics
-DB00936	Salicylic acid	D018501	Antirheumatic Agents
 DB00936	Salicylic acid	D002317	Cardiovascular Agents
 DB00936	Salicylic acid	D016861	Cyclooxygenase Inhibitors
 DB00936	Salicylic acid	D004791	Enzyme Inhibitors
 DB00936	Salicylic acid	D005343	Fibrinolytic Agents
 DB00936	Salicylic acid	D006401	Hematologic Agents
 DB00936	Salicylic acid	D010975	Platelet Aggregation Inhibitors
-DB00936	Salicylic acid	D018689	Sensory System Agents
 DB00945	Acetylsalicylic acid	N0000008836	Decreased Prostaglandin Production
 DB00945	Acetylsalicylic acid	N0000175721	Nonsteroidal Anti-inflammatory Compounds
 DB00945	Acetylsalicylic acid	N0000175722	Nonsteroidal Anti-inflammatory Drug
@@ -6502,20 +6350,12 @@ DB00945	Acetylsalicylic acid	D005343	Fibrinolytic Agents
 DB00945	Acetylsalicylic acid	D006401	Hematologic Agents
 DB00945	Acetylsalicylic acid	D010975	Platelet Aggregation Inhibitors
 DB00945	Acetylsalicylic acid	D018689	Sensory System Agents
-DB00936	Salicylic acid	D000700	Analgesics
-DB00936	Salicylic acid	D018712	Analgesics, Non-Narcotic
 DB00936	Salicylic acid	D000890	Anti-Infective Agents
-DB00936	Salicylic acid	D000893	Anti-Inflammatory Agents
 DB00936	Salicylic acid	CHEBI:35441	antiinfective agent
 DB00936	Salicylic acid	CHEBI:50176	keratolytic drug
-DB00936	Salicylic acid	D000894	Anti-Inflammatory Agents, Non-Steroidal
 DB00936	Salicylic acid	D000935	Antifungal Agents
-DB00936	Salicylic acid	D018501	Antirheumatic Agents
-DB00936	Salicylic acid	D016861	Cyclooxygenase Inhibitors
 DB00936	Salicylic acid	D003879	Dermatologic Agents
-DB00936	Salicylic acid	D004791	Enzyme Inhibitors
 DB00936	Salicylic acid	D007641	Keratolytic Agents
-DB00936	Salicylic acid	D018689	Sensory System Agents
 DB00937	Diethylpropion	N0000175372	Appetite Suppression
 DB00937	Diethylpropion	N0000175651	Increased Sympathetic Activity
 DB00937	Diethylpropion	N0000175423	Sympathomimetic Amine Anorectic
@@ -6670,8 +6510,6 @@ DB00958	Carboplatin	D003432	Cross-Linking Reagents
 DB00958	Carboplatin	D007202	Indicators and Reagents
 DB00959	Methylprednisolone	D000893	Anti-Inflammatory Agents
 DB00959	Methylprednisolone	CHEBI:35472	anti-inflammatory drug
-DB00959	Methylprednisolone	D000893	Anti-Inflammatory Agents
-DB00959	Methylprednisolone	D000893	Anti-Inflammatory Agents
 DB00959	Methylprednisolone	D000970	Antineoplastic Agents
 DB00959	Methylprednisolone	D018931	Antineoplastic Agents, Hormonal
 DB00959	Methylprednisolone	D002491	Central Nervous System Agents
@@ -6681,18 +6519,11 @@ DB00959	Methylprednisolone	D018696	Neuroprotective Agents
 DB00959	Methylprednisolone	D020011	Protective Agents
 DB00959	Methylprednisolone	N0000175576	Corticosteroid
 DB00959	Methylprednisolone	N0000175450	Corticosteroid Hormone Receptor Agonists
-DB00959	Methylprednisolone	D000893	Anti-Inflammatory Agents
-DB00959	Methylprednisolone	CHEBI:35472	anti-inflammatory drug
 DB00959	Methylprednisolone	CHEBI:63726	neuroprotective agent
 DB00959	Methylprednisolone	CHEBI:37962	adrenergic agent
 DB00959	Methylprednisolone	CHEBI:50919	antiemetic
 DB00959	Methylprednisolone	D000932	Antiemetics
-DB00959	Methylprednisolone	D002491	Central Nervous System Agents
 DB00959	Methylprednisolone	D005765	Gastrointestinal Agents
-DB00959	Methylprednisolone	D005938	Glucocorticoids
-DB00959	Methylprednisolone	D006728	Hormones
-DB00959	Methylprednisolone	D018696	Neuroprotective Agents
-DB00959	Methylprednisolone	D020011	Protective Agents
 DB00960	Pindolol	N0000175556	beta-Adrenergic Blocker
 DB00960	Pindolol	D018663	Adrenergic Agents
 DB00960	Pindolol	D018674	Adrenergic Antagonists
@@ -6925,13 +6756,10 @@ DB00987	Cytarabine	D000970	Antineoplastic Agents
 DB00987	Cytarabine	D000998	Antiviral Agents
 DB00987	Cytarabine	N0000000233	Nucleic Acid Synthesis Inhibitors
 DB00987	Cytarabine	N0000175595	Nucleoside Metabolic Inhibitor
-DB00987	Cytarabine	D000890	Anti-Infective Agents
 DB00987	Cytarabine	CHEBI:35610	antineoplastic agent
 DB00987	Cytarabine	CHEBI:35705	immunosuppressive agent
 DB00987	Cytarabine	D000963	Antimetabolites
 DB00987	Cytarabine	D000964	Antimetabolites, Antineoplastic
-DB00987	Cytarabine	D000970	Antineoplastic Agents
-DB00987	Cytarabine	D000998	Antiviral Agents
 DB00987	Cytarabine	D007155	Immunologic Factors
 DB00987	Cytarabine	D007166	Immunosuppressive Agents
 DB00987	Cytarabine	D009676	Noxae
@@ -6947,8 +6775,6 @@ DB00988	Dopamine	CHEBI:48407	antiparkinson drug
 DB00988	Dopamine	CHEBI:50266	prodrug
 DB00988	Dopamine	D000978	Antiparkinson Agents
 DB00988	Dopamine	D002491	Central Nervous System Agents
-DB00988	Dopamine	D015259	Dopamine Agents
-DB00988	Dopamine	D018377	Neurotransmitter Agents
 DB01235	L-DOPA	N0000175754	Aromatic Amino Acid Decarboxylation Inhibitor
 DB01235	L-DOPA	N0000175755	DOPA Decarboxylase Inhibitors
 DB01235	L-DOPA	D018726	Anti-Dyskinesia Agents
@@ -6964,12 +6790,9 @@ DB00988	Dopamine	N0000175570	Catecholamine
 DB00988	Dopamine	N0000007715	Catecholamines
 DB00988	Dopamine	CHEBI:38147	cardiotonic drug
 DB00988	Dopamine	CHEBI:35522	beta-adrenergic agonist
-DB00988	Dopamine	CHEBI:48560	dopaminergic agent
 DB00988	Dopamine	CHEBI:35524	sympathomimetic agent
 DB00988	Dopamine	D002316	Cardiotonic Agents
 DB00988	Dopamine	D002317	Cardiovascular Agents
-DB00988	Dopamine	D015259	Dopamine Agents
-DB00988	Dopamine	D018377	Neurotransmitter Agents
 DB00988	Dopamine	D020011	Protective Agents
 DB00988	Dopamine	D013566	Sympathomimetics
 DB00989	Rivastigmine	N0000175723	Cholinesterase Inhibitor
@@ -7034,7 +6857,6 @@ DB00996	Gabapentin	N0000008486	Decreased Central Nervous System Disorganized Ele
 DB00996	Gabapentin	D000700	Analgesics
 DB00996	Gabapentin	D014151	Anti-Anxiety Agents
 DB00996	Gabapentin	D018726	Anti-Dyskinesia Agents
-DB00996	Gabapentin	CHEBI:35623	anticonvulsant
 DB00996	Gabapentin	D000927	Anticonvulsants
 DB00996	Gabapentin	D018692	Antimanic Agents
 DB00996	Gabapentin	D000978	Antiparkinson Agents
@@ -7256,7 +7078,6 @@ DB01024	Mycophenolic acid	CHEBI:35610	antineoplastic agent
 DB01024	Mycophenolic acid	CHEBI:35705	immunosuppressive agent
 DB01024	Mycophenolic acid	D000903	Antibiotics, Antineoplastic
 DB01024	Mycophenolic acid	D000970	Antineoplastic Agents
-DB01024	Mycophenolic acid	D004791	Enzyme Inhibitors
 DB01025	Amlexanox	N0000175628	Decreased Histamine Release
 DB01025	Amlexanox	D018926	Anti-Allergic Agents
 DB01025	Amlexanox	CHEBI:50857	anti-allergic agent
@@ -7457,12 +7278,8 @@ DB01051	Novobiocin	D004791	Enzyme Inhibitors
 DB01051	Novobiocin	D019384	Nucleic Acid Synthesis Inhibitors
 DB01053	Benzylpenicillin	D000900	Anti-Bacterial Agents
 DB01053	Benzylpenicillin	D000890	Anti-Infective Agents
-DB01053	Benzylpenicillin	D000900	Anti-Bacterial Agents
-DB01053	Benzylpenicillin	D000890	Anti-Infective Agents
 DB01053	Benzylpenicillin	N0000175497	Penicillin-class Antibacterial
 DB01053	Benzylpenicillin	N0000011281	Penicillins
-DB01053	Benzylpenicillin	D000900	Anti-Bacterial Agents
-DB01053	Benzylpenicillin	D000890	Anti-Infective Agents
 DB01053	Benzylpenicillin	CHEBI:36047	antibacterial drug
 DB01054	Nitrendipine	CHEBI:35674	antihypertensive agent
 DB01054	Nitrendipine	CHEBI:35620	vasodilator agent
@@ -7882,8 +7699,6 @@ DB01112	Cefuroxime	D000900	Anti-Bacterial Agents
 DB01112	Cefuroxime	D000890	Anti-Infective Agents
 DB01112	Cefuroxime	N0000175488	Cephalosporin Antibacterial
 DB01112	Cefuroxime	N0000011161	Cephalosporins
-DB01112	Cefuroxime	D000900	Anti-Bacterial Agents
-DB01112	Cefuroxime	D000890	Anti-Infective Agents
 DB01112	Cefuroxime	CHEBI:88188	drug allergen
 DB01113	Papaverine	D002317	Cardiovascular Agents
 DB01113	Papaverine	D004791	Enzyme Inhibitors
@@ -8394,13 +8209,8 @@ DB01183	Naloxone	N0000000154	Opioid Antagonists
 DB01183	Naloxone	D002491	Central Nervous System Agents
 DB01183	Naloxone	D009292	Narcotic Antagonists
 DB01183	Naloxone	D018689	Sensory System Agents
-DB01183	Naloxone	N0000175691	Opioid Antagonist
-DB01183	Naloxone	N0000000154	Opioid Antagonists
 DB01183	Naloxone	CHEBI:35488	central nervous system depressant
 DB01183	Naloxone	CHEBI:90755	antidote to opioid poisoning
-DB01183	Naloxone	D002491	Central Nervous System Agents
-DB01183	Naloxone	D009292	Narcotic Antagonists
-DB01183	Naloxone	D018689	Sensory System Agents
 DB01184	Domperidone	CHEBI:50919	antiemetic
 DB01184	Domperidone	CHEBI:48561	dopaminergic antagonist
 DB01184	Domperidone	D000932	Antiemetics
@@ -8439,17 +8249,11 @@ DB01189	Desflurane	D002491	Central Nervous System Agents
 DB01189	Desflurane	D002492	Central Nervous System Depressants
 DB01190	Clindamycin	D000900	Anti-Bacterial Agents
 DB01190	Clindamycin	D000890	Anti-Infective Agents
-DB01190	Clindamycin	D000900	Anti-Bacterial Agents
-DB01190	Clindamycin	D000890	Anti-Infective Agents
 DB01190	Clindamycin	D004791	Enzyme Inhibitors
 DB01190	Clindamycin	D011500	Protein Synthesis Inhibitors
 DB01190	Clindamycin	N0000009982	Decreased Sebaceous Gland Activity
 DB01190	Clindamycin	N0000175443	Lincosamide Antibacterial
 DB01190	Clindamycin	N0000175442	Lincosamides
-DB01190	Clindamycin	D000900	Anti-Bacterial Agents
-DB01190	Clindamycin	D000890	Anti-Infective Agents
-DB01190	Clindamycin	D004791	Enzyme Inhibitors
-DB01190	Clindamycin	D011500	Protein Synthesis Inhibitors
 DB01191	Dexfenfluramine	CHEBI:50949	serotonin uptake inhibitor
 DB01191	Dexfenfluramine	CHEBI:35941	serotonergic agonist
 DB01191	Dexfenfluramine	CHEBI:50507	appetite depressant
@@ -8506,13 +8310,8 @@ DB01197	Captopril	D002317	Cardiovascular Agents
 DB01197	Captopril	D004791	Enzyme Inhibitors
 DB01197	Captopril	D011480	Protease Inhibitors
 DB01197	Captopril	N0000175562	Angiotensin Converting Enzyme Inhibitor
-DB01197	Captopril	D000806	Angiotensin-Converting Enzyme Inhibitors
 DB01197	Captopril	CHEBI:35457	EC 3.4.15.1 (peptidyl-dipeptidase A) inhibitor
 DB01197	Captopril	CHEBI:35674	antihypertensive agent
-DB01197	Captopril	D000959	Antihypertensive Agents
-DB01197	Captopril	D002317	Cardiovascular Agents
-DB01197	Captopril	D004791	Enzyme Inhibitors
-DB01197	Captopril	D011480	Protease Inhibitors
 DB01198	Zopiclone	CHEBI:35488	central nervous system depressant
 DB01198	Zopiclone	CHEBI:35717	sedative
 DB01198	Zopiclone	D002491	Central Nervous System Agents
@@ -8787,7 +8586,6 @@ DB01233	Metoclopramide	D018377	Neurotransmitter Agents
 DB01234	Dexamethasone	D000893	Anti-Inflammatory Agents
 DB01234	Dexamethasone	N0000175576	Corticosteroid
 DB01234	Dexamethasone	N0000175450	Corticosteroid Hormone Receptor Agonists
-DB01234	Dexamethasone	D000893	Anti-Inflammatory Agents
 DB01234	Dexamethasone	CHEBI:50919	antiemetic
 DB01234	Dexamethasone	CHEBI:37962	adrenergic agent
 DB01234	Dexamethasone	CHEBI:35610	antineoplastic agent
@@ -9003,13 +8801,6 @@ DB01267	Paliperidone	D018490	Serotonin Agents
 DB01267	Paliperidone	D012702	Serotonin Antagonists
 DB01267	Paliperidone	D014149	Tranquilizing Agents
 DB01267	Paliperidone	N0000175430	Atypical Antipsychotic
-DB01267	Paliperidone	CHEBI:48561	dopaminergic antagonist
-DB01267	Paliperidone	CHEBI:48279	serotonergic antagonist
-DB01267	Paliperidone	CHEBI:37890	alpha-adrenergic antagonist
-DB01267	Paliperidone	CHEBI:37955	H1-receptor antagonist
-DB01267	Paliperidone	CHEBI:35471	psychotropic drug
-DB01267	Paliperidone	CHEBI:65191	second generation antipsychotic
-DB01267	Paliperidone	CHEBI:63726	neuroprotective agent
 DB01268	Sunitinib	N0000175605	Kinase Inhibitor
 DB01268	Sunitinib	N0000175076	Protein Kinase Inhibitors
 DB01268	Sunitinib	D020533	Angiogenesis Inhibitors
